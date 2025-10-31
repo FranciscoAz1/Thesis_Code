@@ -1,0 +1,2 @@
+metric,median_overall,median_true,median_false,n_overall,n_true,n_false
+jaccard,0.213224043715847,0.35948717948717945,0.17307692307692307,298,100,198

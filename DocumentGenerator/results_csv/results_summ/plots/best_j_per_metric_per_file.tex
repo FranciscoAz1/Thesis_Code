@@ -1,0 +1,12 @@
+\begin{tabular}{llrrrrrrrrr}
+\toprule
+metric & source_file & best_threshold & true_pass_rate & false_pass_rate & difference & median_false & median_true & median_overall & auc & doc_retrieved_pct \\
+\midrule
+token_recall & AgentOpenAI_300 & 0.670 & 0.567 & 0.044 & 0.523 & 0.509 & 0.838 & 0.756 & 0.966 & 0.604 \\
+token_recall & LexRank & 0.620 & 0.289 & 0.064 & 0.225 & 0.429 & 0.828 & 0.522 & 0.945 & 0.336 \\
+token_recall & Mixeddocx & 0.750 & 0.215 & 0.015 & 0.200 & 0.422 & 0.833 & 0.523 & 0.930 & 0.330 \\
+token_recall & MixedLexRank & 0.620 & 0.235 & 0.059 & 0.176 & 0.343 & 0.696 & 0.406 & 0.722 & 0.394 \\
+token_recall & MixedRest & 0.380 & 0.215 & 0.057 & 0.158 & 0.000 & 0.300 & 0.000 & 0.687 & 0.475 \\
+token_recall & BART & 0.770 & 0.017 & 0.000 & 0.017 & 0.367 & 0.463 & 0.380 & 0.688 & 0.178 \\
+\bottomrule
+\end{tabular}

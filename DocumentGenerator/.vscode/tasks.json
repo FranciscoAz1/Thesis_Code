@@ -1,0 +1,41 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Run analyzer to validate new fields",
+			"type": "shell",
+			"command": "python .\\analyze_results.py --input .\\best_results_best_metrics300.csv --outdir .\\results",
+			"problemMatcher": [
+				"$eslint-stylish"
+			],
+			"group": "build"
+		},
+		{
+			"label": "Run analyzer with min-balance",
+			"type": "shell",
+			"command": "python .\\analyze_results.py --input .\\good_data\\ --select-by difference --top-k 2 --min-balance 0.6",
+			"problemMatcher": [
+				"$eslint-stylish"
+			],
+			"group": "build"
+		},
+		{
+			"label": "Run analyzer to validate TPR/FPR and Doc%",
+			"type": "shell",
+			"command": "python .\\analyze_results.py --input .\\good_data\\ --select-by difference --top-k 5 --min-balance 0.06 --perm-n 100",
+			"problemMatcher": [
+				"$eslint-stylish"
+			],
+			"group": "build"
+		},
+		{
+			"label": "Run visualize_summary.py after fix",
+			"type": "shell",
+			"command": "python .\\visualize_summary.py",
+			"problemMatcher": [
+				"$eslint-stylish"
+			],
+			"group": "build"
+		}
+	]
+}

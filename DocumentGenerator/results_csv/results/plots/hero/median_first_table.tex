@@ -1,0 +1,30 @@
+\begin{tabular}{llrrrrrr}
+\toprule
+metric & source_file & median_overall & median_true & median_false & median_gap & n_true & n_false \\
+\midrule
+bert_cos & weaviateNaive1AI & 0.658 & 0.797 & 0.646 & 0.151 & 40 & 258 \\
+bert_cos & AgentOpenAI_300 & 0.742 & 0.796 & 0.664 & 0.132 & 180 & 118 \\
+bert_cos & weaviateCoT1_300 & 0.640 & 0.766 & 0.637 & 0.130 & 17 & 281 \\
+bert_cos & weaviateNaive1_300 & 0.683 & 0.795 & 0.669 & 0.126 & 41 & 257 \\
+bert_cos & weaviateCoT_3_300 & 0.607 & 0.610 & 0.606 & 0.003 & 28 & 270 \\
+bert_cos & weaviateNaive3_300 & 0.657 & 0.657 & 0.657 & 0.000 & 67 & 231 \\
+jaccard & weaviateCoT1_300 & 0.141 & 0.375 & 0.136 & 0.239 & 17 & 281 \\
+jaccard & AgentOpenAI_300 & 0.286 & 0.395 & 0.175 & 0.219 & 180 & 118 \\
+jaccard & weaviateNaive1AI & 0.146 & 0.343 & 0.132 & 0.211 & 40 & 258 \\
+jaccard & weaviateNaive1_300 & 0.176 & 0.372 & 0.163 & 0.209 & 41 & 257 \\
+jaccard & weaviateCoT_3_300 & 0.113 & 0.138 & 0.111 & 0.026 & 28 & 270 \\
+jaccard & weaviateNaive3_300 & 0.127 & 0.127 & 0.127 & 0.001 & 67 & 231 \\
+overlap & weaviateCoT1_300 & 0.400 & 0.818 & 0.389 & 0.429 & 17 & 281 \\
+overlap & weaviateNaive1AI & 0.444 & 0.775 & 0.400 & 0.375 & 40 & 258 \\
+overlap & weaviateNaive1_300 & 0.476 & 0.786 & 0.440 & 0.346 & 41 & 257 \\
+overlap & AgentOpenAI_300 & 0.667 & 0.774 & 0.431 & 0.343 & 180 & 118 \\
+overlap & weaviateCoT_3_300 & 0.364 & 0.400 & 0.364 & 0.036 & 28 & 270 \\
+overlap & weaviateNaive3_300 & 0.385 & 0.385 & 0.385 & 0.000 & 67 & 231 \\
+token_recall & weaviateCoT1_300 & 0.350 & 0.829 & 0.340 & 0.489 & 17 & 281 \\
+token_recall & weaviateNaive1_300 & 0.456 & 0.875 & 0.414 & 0.461 & 41 & 257 \\
+token_recall & AgentOpenAI_300 & 0.756 & 0.838 & 0.509 & 0.329 & 180 & 118 \\
+token_recall & weaviateNaive1AI & 0.431 & 0.724 & 0.396 & 0.328 & 40 & 258 \\
+token_recall & weaviateCoT_3_300 & 0.408 & 0.517 & 0.400 & 0.117 & 28 & 270 \\
+token_recall & weaviateNaive3_300 & 0.467 & 0.500 & 0.458 & 0.042 & 67 & 231 \\
+\bottomrule
+\end{tabular}

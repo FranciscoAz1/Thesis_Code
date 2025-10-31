@@ -1,0 +1,22 @@
+\begin{tabular}{llrrrrrr}
+\toprule
+metric & source_file & median_overall & median_true & median_false & median_gap & n_true & n_false \\
+\midrule
+bert_cos & Agent_OpenAI_MixedLiHua & 0.709 & 0.719 & 0.457 & 0.262 & 147 & 11 \\
+bert_cos & Agent_OpenAI_MixedSynthetic & 0.749 & 0.770 & 0.636 & 0.134 & 161 & 39 \\
+bert_cos & AgentOpenAI_300 & 0.742 & 0.796 & 0.664 & 0.132 & 180 & 118 \\
+bert_cos & AgentOpenAI_Mixed & 0.737 & 0.753 & 0.635 & 0.119 & 308 & 50 \\
+jaccard & AgentOpenAI_300 & 0.286 & 0.395 & 0.175 & 0.219 & 180 & 118 \\
+jaccard & Agent_OpenAI_MixedSynthetic & 0.335 & 0.372 & 0.172 & 0.199 & 161 & 39 \\
+jaccard & AgentOpenAI_Mixed & 0.273 & 0.295 & 0.172 & 0.124 & 308 & 50 \\
+jaccard & Agent_OpenAI_MixedLiHua & 0.157 & 0.158 & 0.045 & 0.112 & 147 & 11 \\
+overlap & Agent_OpenAI_MixedLiHua & 0.667 & 0.667 & 0.167 & 0.500 & 147 & 11 \\
+overlap & AgentOpenAI_300 & 0.667 & 0.774 & 0.431 & 0.343 & 180 & 118 \\
+overlap & Agent_OpenAI_MixedSynthetic & 0.718 & 0.757 & 0.471 & 0.286 & 161 & 39 \\
+overlap & AgentOpenAI_Mixed & 0.700 & 0.737 & 0.466 & 0.271 & 308 & 50 \\
+token_recall & Agent_OpenAI_MixedLiHua & 1.000 & 1.000 & 0.500 & 0.500 & 147 & 11 \\
+token_recall & AgentOpenAI_Mixed & 0.872 & 0.892 & 0.553 & 0.339 & 308 & 50 \\
+token_recall & AgentOpenAI_300 & 0.756 & 0.838 & 0.509 & 0.329 & 180 & 118 \\
+token_recall & Agent_OpenAI_MixedSynthetic & 0.786 & 0.841 & 0.561 & 0.280 & 161 & 39 \\
+\bottomrule
+\end{tabular}

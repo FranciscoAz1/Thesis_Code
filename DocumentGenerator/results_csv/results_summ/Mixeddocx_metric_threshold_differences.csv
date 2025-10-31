@@ -1,0 +1,2 @@
+metric,best_threshold,true_pass_rate,false_pass_rate,difference,tpr_ci_low,tpr_ci_high,fpr_ci_low,fpr_ci_high,auc,p_value,median_gap,class_balance_ratio,doc_retrieved_pct,n_true,n_false,median_overall,median_true,median_false
+jaccard,0.25,0.265,0.1,0.165,0.17361604130795844,0.382236058300298,0.059839532408831074,0.16245620414675158,0.8699118046132972,0.06786427145708583,0.164021623655438,0.4925373134328358,0.33,66,134,0.19378911892152142,0.33491379310344827,0.17089216944801028

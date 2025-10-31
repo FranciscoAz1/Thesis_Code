@@ -1,0 +1,6 @@
+metric,median_overall,median_true,median_false,n_overall,n_true,n_false,source_file,label
+token_recall,0.7564271588661833,0.8382737576285963,0.5094371418941692,298,180,118,AgentOpenAI,token_recall | AgentOpenAI
+token_recall,0.4666666666666667,0.5,0.4583333333333333,298,67,231,weaviateNaive3_300,token_recall | weaviateNaive3_300
+token_recall,0.45553359683794464,0.875,0.41379310344827586,298,41,257,weaviateNaive1_300,token_recall | weaviateNaive1_300
+token_recall,0.4079290558163797,0.5166666666666666,0.4,298,28,270,weaviateCoT_3_300,token_recall | weaviateCoT_3_300
+token_recall,0.3495887191539365,0.8285714285714286,0.34,298,17,281,weaviateCoT1_300,token_recall | weaviateCoT1_300

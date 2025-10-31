@@ -1,0 +1,8 @@
+file,document_retrieved,token_recall,jaccard,rouge1_f,overlap,bleu,bert_cos
+AgentOpenAI_300,,,0.2857142857142857,,,,
+BART,,,0.1568627450980392,,,,
+LexRank,,,0.213224043715847,,,,
+MixedLexRank,,,0.12727272727272726,,,,
+MixedRest,,,0.0,,,,
+Mixeddocx,,,0.19378911892152142,,,,
+weaviateNaive1_300,,,0.17620967741935484,,,,

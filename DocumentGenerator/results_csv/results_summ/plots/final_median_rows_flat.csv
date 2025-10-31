@@ -1,0 +1,7 @@
+metric,median_overall,median_true,median_false,n_overall,n_true,n_false,source_file,label
+token_recall,0.7564271588661833,0.8382737576285963,0.5094371418941692,298,180,118,AgentOpenAI_300,token_recall | AgentOpenAI_300
+token_recall,0.5225576662143826,0.8333333333333334,0.4220093343158929,200,66,134,Mixeddocx,token_recall | Mixeddocx
+token_recall,0.5217391304347826,0.8275862068965517,0.42857142857142855,298,100,198,LexRank,token_recall | LexRank
+token_recall,0.40608465608465605,0.6956521739130435,0.34328358208955223,358,141,217,MixedLexRank,token_recall | MixedLexRank
+token_recall,0.3796551724137931,0.46296296296296297,0.3670886075949367,298,53,245,BART,token_recall | BART
+token_recall,0.0,0.3,0.0,158,75,83,MixedRest,token_recall | MixedRest

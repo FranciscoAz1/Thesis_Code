@@ -1,0 +1,2 @@
+metric,median_overall,median_true,median_false,n_overall,n_true,n_false
+bert_cos,0.7415458559989929,0.7960936725139618,0.6641967594623566,298,180,118

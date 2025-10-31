@@ -1,0 +1,31 @@
+\begin{tabular}{llrrrrrr}
+\toprule
+metric & source_file & median_overall & median_true & median_false & median_gap & n_true & n_false \\
+\midrule
+bert_cos & Agent_OpenAI_MixedLiHua & 0.709 & 0.719 & 0.457 & 0.262 & 147 & 11 \\
+bert_cos & Agent_OpenAI_MixedSynthetic & 0.749 & 0.770 & 0.636 & 0.134 & 161 & 39 \\
+bert_cos & AgentOpenAI_300 & 0.742 & 0.796 & 0.664 & 0.132 & 180 & 118 \\
+bert_cos & AgentOpenAI_Mixed & 0.737 & 0.753 & 0.635 & 0.119 & 308 & 50 \\
+bleu & AgentOpenAI_300 & 0.323 & 0.453 & 0.243 & 0.210 & 180 & 118 \\
+bleu & Agent_OpenAI_MixedSynthetic & 0.372 & 0.453 & 0.248 & 0.205 & 161 & 39 \\
+bleu & Agent_OpenAI_MixedLiHua & 0.167 & 0.171 & 0.056 & 0.116 & 147 & 11 \\
+bleu & AgentOpenAI_Mixed & 0.286 & 0.322 & 0.240 & 0.082 & 308 & 50 \\
+expected_file & Agent_OpenAI_MixedLiHua & 202609166450.000 & 202609161900.000 & 202609221200.000 & -59300.000 & 147 & 9 \\
+jaccard & AgentOpenAI_300 & 0.286 & 0.395 & 0.175 & 0.219 & 180 & 118 \\
+jaccard & Agent_OpenAI_MixedSynthetic & 0.335 & 0.372 & 0.172 & 0.199 & 161 & 39 \\
+jaccard & AgentOpenAI_Mixed & 0.273 & 0.295 & 0.172 & 0.124 & 308 & 50 \\
+jaccard & Agent_OpenAI_MixedLiHua & 0.157 & 0.158 & 0.045 & 0.112 & 147 & 11 \\
+overlap & Agent_OpenAI_MixedLiHua & 0.667 & 0.667 & 0.167 & 0.500 & 147 & 11 \\
+overlap & AgentOpenAI_300 & 0.667 & 0.774 & 0.431 & 0.343 & 180 & 118 \\
+overlap & Agent_OpenAI_MixedSynthetic & 0.718 & 0.757 & 0.471 & 0.286 & 161 & 39 \\
+overlap & AgentOpenAI_Mixed & 0.700 & 0.737 & 0.466 & 0.271 & 308 & 50 \\
+rouge1_f & AgentOpenAI_300 & 0.432 & 0.552 & 0.290 & 0.262 & 180 & 118 \\
+rouge1_f & Agent_OpenAI_MixedSynthetic & 0.480 & 0.526 & 0.274 & 0.252 & 161 & 39 \\
+rouge1_f & Agent_OpenAI_MixedLiHua & 0.389 & 0.400 & 0.182 & 0.218 & 147 & 11 \\
+rouge1_f & AgentOpenAI_Mixed & 0.454 & 0.479 & 0.272 & 0.207 & 308 & 50 \\
+token_recall & Agent_OpenAI_MixedLiHua & 1.000 & 1.000 & 0.500 & 0.500 & 147 & 11 \\
+token_recall & AgentOpenAI_Mixed & 0.872 & 0.892 & 0.553 & 0.339 & 308 & 50 \\
+token_recall & AgentOpenAI_300 & 0.756 & 0.838 & 0.509 & 0.329 & 180 & 118 \\
+token_recall & Agent_OpenAI_MixedSynthetic & 0.786 & 0.841 & 0.561 & 0.280 & 161 & 39 \\
+\bottomrule
+\end{tabular}

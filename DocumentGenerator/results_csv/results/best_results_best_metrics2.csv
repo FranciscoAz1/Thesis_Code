@@ -1,0 +1,1250 @@
+question,gold_answer,generated_answer,expected_file,retrieved_files,retrieved_context,latency_s,exact,substring,token_recall,jaccard,rouge1_f,overlap,bert_cos,context_exact,context_substring,context_token_recall,context_jaccard,context_rouge1_f,context_overlap,correct_doc_retrieved,retrieval_rank
+Quais são os principais pontos abordados na proposta de lei sobre a proteção de dados pessoais apresentada pelo Ministério da Justiça?,"A proposta de lei inclui os seguintes pontos principais: 1. Ampliação da definição e categorização dos dados pessoais, incluindo novas formas de tratamento que emergem na era digital. 2. Reforço dos direitos dos cidadãos relativamente ao acesso, retificação e apagamento de dados, bem como o direito à portabilidade. 3. Estabelecimento de obrigações mais rigorosas para entidades tratadoras de dados, incluindo a obrigatoriedade de notificação de incidentes de segurança. 4. Definição de um regime sancionatório claro e proporcional às infrações cometidas, alinhado com as diretrizes europeias.","### Resumo dos Documentos Gerados
+
+#### Documento #409 - Decreto-Lei Proposta
+- **Data**: 23 de Outubro de 2023
+- **Autor**: Ministro da Justiça
+- **Destinatários**: Presidente da República, Assembleia da República
+- **Assunto**: Proposta de Decretos-Leis que:
+  - Estabelece o regime jurídico dos contratos de seguro a termo.
+  - Institui um regime especial para o serviço público em relação à celebração de contratos de seguro a termo.
+
+#### Documento #410 - Parecer Técnico-Jurídico
+- **Data**: 10 de Outubro de 2023
+- **Autoridade**: Divisão de Pareceres Jurídicos, Direcção-Geral da Política de Justiça, Ministério da Justiça
+- **Requerente**: Exmo. Senhor Dr. João Silva, Diretor do Departamento de Legislação, Ministério da Justiça
+- **Assunto**: Interpretação do Artigo 23.º da Lei n.º 50/2020 (Regime Jurídico da Proteção de Dados Pessoais)
+- **Conclusão**:
+  - O tratamento de dados pessoais, conforme previsto no Artigo 23.º, deve ser realizado considerando os direitos dos titulares e a conformidade com os princípios gerais de proteção de dados.
+  - Recomenda-se transparência e implementação de mecanismos para o exercício dos direitos consagrados na Lei.
+
+---
+
+### Observações
+1. **Documento #409**:
+   - Proposta de Decretos-Leis apresentada ao Presidente da República e Assembleia da República.
+   - Aborda questões importantes sobre seguros a termo no âmbito do serviço público, necessitando aprovação legislativa.
+
+2. **Documento #410**:
+   - Parecer técnico-jurídico emitido sobre o Artigo 23.º da Lei n.º 50/2020.
+   - Fornecer guia para a interpretação e aplicação prática do regime jurídico de proteção de dados pessoais.
+
+### Recomendações
+- **Documento #409**: Seguir o procedimento legislativo para aprovação dos Decretos-Leis propostos.
+- **Documento #410**: Considerar as recomendações no âmbito das políticas internas e procedimentos de tratamento de dados pessoais, garantindo transparência e conformidade com os princípios legais.",documento_463_100.10.001.docx,C:\Users\Francisco Azeredo\Downloads\gerador_documentos_gpt_azure (1)\gerador_documentos_gpt_azure\documentos_gerados\documento_204_100.10.01.docx; C:\Users\Francisco Azeredo\Downloads\gerador_documentos_gpt_azure (1)\gerador_documentos_gpt_azure\documentos_gerados\documento_259_100.10.001.docx; C:\Users\Francisco Azeredo\Downloads\gerador_documentos_gpt_azure (1)\gerador_documentos_gpt_azure\documentos_gerados\documento_410_100.20.001.docx,"Documento Gerado #204
+**GOVERNO DA REPÚBLICA**  
+**MINISTÉRIO DA JUSTIÇA**  
+**DIRECÇÃO-GERAL DA LEGISLAÇÃO**  
+
+**DE:** Direcção-Geral da Legislação  
+**ASSUNTO:** Proposta de Lei nº 123/2023 – Regime Jurídico da Proteção de Dados Pessoais  
+**DATA:** 10 de Outubro de 2023  
+
+---
+
+**INFORMAÇÃO:**
+
+...",20.631555100000696,False,False,0.35294117647058826,0.125,0.1818181769687864,1.0,0.6902545094490051,False,False,0.3567567567567568,0.08962264150943396,0.15969581445850023,0.6333333333333333,False,-1
+Qual é o prazo estabelecido para a conclusão da consulta pública e entrega da versão final do documento normativo sobre a inspeção de Equipamentos de Proteção Individual (EPI)?,"O prazo para a conclusão da consulta pública e entrega da versão final do documento normativo será de seis meses a contar da data do despacho, que é 15 de Outubro de 2023.","Com base nos documentos fornecidos, aqui está a síntese dos dois textos:
+
+1. Documento #354 - Aprovação da Equipa de Atendimento ao Público:
+   - Direção Geral de Administração Pública aprova o regulamento interno e determina sua publicitação.
+   - A Direção de Recursos Humanos deve assegurar a formação necessária aos membros da equipa.
+   - Decisão é comunicada para divulgação pelo Gabinete de Comunicação.
+
+2. Documento #356 - Proposta de Norma Técnica para Gestão da Qualidade na Construção Civil:
+   - Direção-Geral de Normativas e Regulações apresenta a proposta.
+   - Objetivo: regular e normalizar práticas de gestão da qualidade na construção civil.
+   - Ponto principal: estabelecer critérios e procedimentos para garantir a qualidade e segurança das obras.
+   - Divulgação pública com prazo de 30 dias para contribuições.
+   - Aprovação do despacho para publicação e publicitação conforme legislação.
+
+Ambos os documentos são de natureza administrativa e regulamentar, visando melhorar processos internos ou externos no setor público.",documento_243_100.10.800.docx,C:\Users\Francisco Azeredo\Downloads\gerador_documentos_gpt_azure (1)\gerador_documentos_gpt_azure\documentos_gerados\documento_243_100.10.800.docx; C:\Users\Francisco Azeredo\Downloads\gerador_documentos_gpt_azure (1)\gerador_documentos_gpt_azure\documentos_gerados\documento_167_100.10.600.docx; C:\Users\Francisco Azeredo\Downloads\gerador_documentos_gpt_azure (1)\gerador_documentos_gpt_azure\documentos_gerados\documento_356_100.10.800.docx,"Documento Gerado #243
+**MINISTÉRIO DA INDÚSTRIA E TECNOLOGIA**  
+**DIRECÇÃO-GERAL DE NORMATIVIDADE E REGULAÇÃO**  
+**AV. DA INOVAÇÃO, Nº 45**  
+**1000-000 LISBOA**  
+**Telf.: +351 21 000 0000**  
+**Email: dgnr@gov.pt**  
+
+---
+
+**DE:** Direcção-Geral de Normatividade e Regulação  
+**A:** Coordenadore...",16.56961279999814,False,False,0.4444444444444444,0.14285714285714285,0.21621621227173124,0.4,0.6332112550735474,False,False,0.43005181347150256,0.10714285714285714,0.1866666631975556,0.6666666666666666,True,0
+Quais são os principais objetivos do Regulamento Interno aprovado para o Departamento de Saúde Pública?,"Os principais objetivos do Regulamento Interno aprovado são: 1. Definir a estrutura organizacional do Departamento de Saúde Pública, detalhando as competências e atribuições de cada setor. 2. Estabelecer procedimentos administrativos que garantam a eficácia e eficiência na execução das atividades de saúde pública. 3. Regular as relações internas entre os colaboradores, promovendo um ambiente de trabalho harmonioso e produtivo.","### Documento Gerado #558
+
+---
+
+#### **GOVERNO DA REPÚBLICA**
+**MINISTÉRIO DA ADMINISTRAÇÃO INTERNA**
+**DIREÇÃO-GERAL DA ADMINistração E DO TERRITÓRIO**
+
+**DE**: Direção-Geral da Administração e do Território
+**ASSUNTO**: Aprovação do Regulamento Geral da Gestão de Resíduos Urbanos  
+**DATA**: 15 de Outubro de 2023
+
+---
+
+### Informação
+
+No seguimento da aprovação da Lei n.º 45/2023, que estabelece o regime jurídico da gestão de resíduos urbanos, e considerando a necessidade de regulamentar as disposições legais que visam garantir a proteção do ambiente e a promoção da sustentabilidade, foi elaborado o Projeto de Regulamento Geral da Gestão de Resíduos Urbanos.
+
+O referido projeto foi submetido à apreciação dos órgãos competentes, tendo sido objeto de consulta pública durante o período de 30 dias, conforme estipulado pela legislação em vigor. Durante este período, foram recebidas diversas sugestões e contributos por parte de entidades públicas, associações e cidadãos, os quais foram cuidadosamente analisados e, sempre que pertinente, incorporados no documento final.
+
+Após a verificação jurídica e a apreciação técnica, o regulamento foi considerado em conformidade com os princípios da legalidade e da adequação técnica, conforme parecer emitido pelo Departamento de Legislação do Ministério da Justiça.
+
+---
+
+### Despacho
+
+Face ao exposto, e considerando o interesse público na implementação de um regime eficaz de gestão de resíduos urbanos, determino a aprovação do Regulamento Geral da Gestão de Resíduos Urbanos, que se anexa ao presente documento.
+
+Determina-se ainda que o regulamento seja publicamente disponibilizado na íntegra no Portal do Governo e em outros meios de comunicação oficiais, a fim de garantir a sua ampla divulgação e cumprimento por todos os cidadãos e entidades envolvidas na gestão de resíduos.
+
+Mais se determina que a Direção-Geral da Administração e do Território coordene as ações necessárias à implementação das disposições contidas no regulamento, assegurando a atualização contínua dos procedimentos e a formação adequada dos agentes envolvidos.
+
+---
+
+**Lisboa, 15 de Outubro de 2023**
+
+**O Diretor-Geral**  
+(Assinatura)  
+João da Silva
+
+---
+
+### ANEXO
+
+**REGULAMENTO GERAL DA GESTÃO DE RESÍDUOS URBANOS**
+
+---
+
+#### **Artigo 1.º – Objetivo e Aplicação**
+
+1. O presente regulamento tem como objetivo estabelecer a legislação relativa à gestão de resíduos urbanos, promovendo a proteção do ambiente e a sustentabilidade.
+2. Esta disposição aplica-se a todos os resíduos produzidos no âmbito da actividade urbana, incluindo residências, serviços públicos, comércio, indústria e organizações não governamentais.
+
+---
+
+#### **Artigo 2.º – Definição de Resíduos Urbanos**
+
+1. Consideram-se resíduos urbanos todos os resíduos produzidos no âmbito da actividade urbana, independentemente do seu tipo ou origem.
+2. Podem ser classificados em resíduos inertes, biodegradáveis, recicláveis e perigosos.
+
+---
+
+#### **Artigo 3.º – Obligações dos Residências**
+
+1. Os cidadãos são obrigados a separar os seus resíduos nos seguintes tipos: inertes, biodegradáveis, recicláveis e perigosos.
+2. As residências devem aderir a programas de coleta seletiva ou encaminhar os resíduos para as unidades locais de gestão de resíduos.
+
+---
+
+#### **Artigo 4.º – Responsabilidade dos Agentes Empresariais**
+
+1. Os agentes económicos e das organizações não governamentais devem aderir a sistemas de recolha seletiva, garantindo a separação adequada dos seus resíduos.
+2. As empresas responsáveis pela produção ou distribuição de produtos são obrigadas a implementar sistemas de gestão circular, visando a redução e a reutilização.
+
+---
+
+#### **Artigo 5.º – Obligações das Autoridades Locais**
+
+1. Os municípios devem assegurar a disponibilização de infraestruturas adequadas para a coleta seletiva dos resíduos urbanos.
+2. As autarquias são responsáveis pela criação e manutenção de programas de educação ambiental, visando a promoção da separação correta dos resíduos.
+
+---
+
+#### **Artigo 6.º – Fiscalização e Sanções**
+
+1. A fiscalização das disposições deste regulamento é exercida pelo Instituto Nacional do Ambiente (INA).
+2. Os infractores podem ser sujeitos a multas ou outras sanções administrativas, consoante a natureza e gravidade dos factos.
+
+---
+
+#### **Artigo 7.º – Disposições Transitórias**
+
+1. Este regulamento entra em vigor a 1 de Janeiro do próximo ano.
+2. Os resíduos acumulados até à data de entrada em vigor serão tratados nos termos previstos na legislação em vigor, salvo disposição contrária.
+
+---
+
+#### **Artigo 8.º – Disposições Complementares**
+
+1. Este regulamento será complementado por normas adicionais que venham a ser definidas pelo Governo.
+2. As alterações ou modificação destes regulamentos serão publicadas no Diário da República.
+
+---
+
+**Lisboa, 15 de Outubro de 2023**
+
+**O Diretor-Geral**  
+(Assinatura)  
+João da Silva
+
+---
+
+Este documento fornece a estrutura básica para o Regulamento Geral da Gestão de Resíduos Urbanos, abrangendo desde as obrigações dos cidadãos até às responsabilidades das autoridades locais. Os detalhes específicos podem ser atualizados conforme necessário.
+
+Se tiver mais elementos ou se precisar de alguma alteração, por favor, avise-me!",documento_794_100.10.600.docx,C:\Users\Francisco Azeredo\Downloads\gerador_documentos_gpt_azure (1)\gerador_documentos_gpt_azure\documentos_gerados\documento_530_100.10.200.docx; C:\Users\Francisco Azeredo\Downloads\gerador_documentos_gpt_azure (1)\gerador_documentos_gpt_azure\documentos_gerados\documento_906_100.10.200.docx; C:\Users\Francisco Azeredo\Downloads\gerador_documentos_gpt_azure (1)\gerador_documentos_gpt_azure\documentos_gerados\documento_558_100.10.200.docx,"Documento Gerado #530
+**GOVERNO DA REPÚBLICA**  
+**MINISTÉRIO DA JUSTIÇA**  
+**DIRECÇÃO-GERAL DA ADMINISTRAÇÃO PÚBLICA**  
+
+**DE**: Direcção-Geral da Administração Pública  
+**ASSUNTO**: Aprovação do Regulamento de Acesso à Informação Pública  
+**DATA**: 15 de Outubro de 2023  
+
+---
+
+**INFORMAÇÃO** ...",61.999878899994656,False,False,0.4583333333333333,0.12903225806451613,0.18604650680097362,1.0,0.7351957559585571,False,False,0.3902439024390244,0.125,0.2105263119500402,0.6153846153846154,False,-1
+Qual é a norma da Lei n.º 234/2021 que foi declarada inconstitucional pelo Tribunal Constitucional e qual foi a data do Acórdão correspondente?,"A norma declarada inconstitucional é a contida no artigo 5.º da Lei n.º 234/2021, de 12 de Julho. O Acórdão correspondente é o n.º 456/2023, datado de 10 de Outubro de 2023.","Baseando-me nos dois documentos fornecidos, aqui estão as principais diferenças entre eles:
+
+1. Origem:
+   - O primeiro documento é um despacho do Diretor-Geral da Política de Justiça.
+   - O segundo documento é uma comunicação oficial do Ministério da Justiça e Direção-Geral da Administração da Justiça.
+
+2. Destinatários:
+   - O primeiro documento destina-se a todos os serviços e organismos da Administração Pública.
+   - O segundo documento é dirigido a ""Todos os Órgãos e Serviços do Estado"".
+
+3. Conteúdo principal:
+   - O primeiro documento solicita revisão de atos administrativos praticados com base na norma inconstitucional.
+   - O segundo documento informa sobre a declaração de inconstitucionalidade proferida pelo Tribunal Constitucional.
+
+4. Normas regulamentares envolvidas:
+   - O primeiro documento refere o artigo 5º do Decreto-Lei n.º 123/2020.
+   - O segundo documento faz menção a um Acórdão n.º 456/2023, mas não especifica qual norma foi declarada inconstitucional.
+
+5. Processo:
+   - No primeiro documento, há uma solicitação de adaptações às políticas e regulamentos internos.
+   - No segundo documento, é solicitado que sejam reportadas informações sobre a implementação da decisão até 30/11/2023.
+
+6. Formalidade:
+   - O segundo documento é mais formal, com assinatura, nome do responsável e visto aprovação incluídos.
+   - O primeiro documento não apresenta esses elementos formais.
+
+7. Publicação oficial:
+   - O segundo documento especifica a publicação no Diário da República.
+   - O primeiro documento menciona apenas a divulgação em Diário da República, sem detalhes.
+
+8. Uso e tratamento:
+   - O segundo documento destina-se exclusivamente à comunicação das decisões do Tribunal Constitucional.
+   - O primeiro documento não especifica esse aspecto.
+
+9. Contexto:
+   - O primeiro documento se baseia num Acórdão de 15/10/2023, mas não o anexa.
+   - O segundo documento menciona um Acórdão n.º 456/2023, com data específica.
+
+Essas diferenças refletem a natureza e escopo diferentes dos documentos, sendo que o primeiro é mais focado em uma instrução interna, enquanto o segundo é uma comunicação oficial para todo o Estado português.",documento_872_100.10.003.docx,C:\Users\Francisco Azeredo\Downloads\gerador_documentos_gpt_azure (1)\gerador_documentos_gpt_azure\documentos_gerados\documento_35_100.10.003.docx; C:\Users\Francisco Azeredo\Downloads\gerador_documentos_gpt_azure (1)\gerador_documentos_gpt_azure\documentos_gerados\documento_616_100.10.003.docx; C:\Users\Francisco Azeredo\Downloads\gerador_documentos_gpt_azure (1)\gerador_documentos_gpt_azure\documentos_gerados\documento_535_100.10.003.docx,"Documento Gerado #35
+**GOVERNO DA REPÚBLICA**  
+**MINISTÉRIO DA JUSTIÇA**  
+**DIREÇÃO-GERAL DA POLÍTICA JUDICIÁRIA**  
+
+**DE**: Direção-Geral da Política Judiciária  
+**A**: Todos os Órgãos Competentes  
+**ASSUNTO**: Comunicação de Decisão do Tribunal Constitucional  
+**DATA**: 15 de outubro de 2023...",15.447600400002557,False,False,0.6923076923076923,0.19444444444444445,0.38297871851516524,0.3684210526315789,0.7929450273513794,False,False,0.5287356321839081,0.1932367149758454,0.2878228744695742,0.75,False,-1
+Qual foi a data em que o Acordo de Cooperação entre Portugal e a República da Argentina foi assinado?,O Acordo de Cooperação foi assinado em Buenos Aires no dia 1 de setembro de 2023.,"### Documento Gerado #694
+
+**MINISTÉRIO DOS NEGÓCIOS ESTRANGEIROS  
+DIREÇÃO-GERAL DE ASSUNTOS INTERNACIONAIS**
+
+#### APROVAÇÃO E COMUNICAÇÃO DO TRATADO DE COOPERAÇÃO CIENTÍFICA ENTRE PORTUGAL E A REPÚBLICA DA ARGENTINA
+
+**DE: Direção-Geral de Assuntos Internacionais  
+ASSUNTO:** Aprovação e Comunicação do Tratado de Cooperação Científica entre Portugal e a República da Argentina  
+**DATA:** 15 de Outubro de 2023  
+
+---
+
+**INFORMAÇÃO:**
+
+No âmbito das relações bilaterais entre a República Portuguesa e a República da Argentina, foi assinado, em Buenos Aires, no dia 20 de Setembro de 2023, o Tratado de Cooperação Científica. Este tratado visa fortalecer as cooperações científicas e tecnológicas entre os dois países, promovendo a realização de investigações conjuntas e o desenvolvimento da inovação tecnológica.
+
+Considerando a importância dessa cooperação para o avanço das ciências no两国之间的科技合作协议，按照提供的模板格式生成一份官方文件。请确保文档包含必要的细节和信息。
+### Documento Gerado #695
+
+**MINISTÉRIO DOS NEGÓCIOS ESTRANGEIROS  
+DIREÇÃO-GERAL DE ASSUNTOS INTERNACIONAIS**
+
+#### APROVAÇÃO E COMUNICAÇÃO DO TRATADO DE COOPERAÇÃO CIENTÍFICA ENTRE PORTUGAL E A CHINA
+
+**DE:** Direção-Geral de Assuntos Internacionais  
+**ASSUNTO:** Aprovação e Comunicação do Tratado de Cooperação Científica entre Portugal e a República Popular da China  
+**DATA:** 15 de Outubro de 2023  
+
+---
+
+**INFORMAÇÃO:**
+
+No âmbito das relações bilaterais entre a República Portuguesa e a República Popular da China, foi assinado, em Beijing, no dia 28 de Setembro de 2023, o Tratado de Cooperação Científica. Este tratado visa fortalecer as cooperações científicas e tecnológicas entre os dois países, promovendo a realização de investigações conjuntas e o desenvolvimento da inovação tecnológica.
+
+Considerando a importância dessa cooperação para o avanço das ciências em ambas as nações, foi solicitado o parecer desta Direção-Geral, conforme prevê a legislação em vigor. O parecer foi emitido em 10 de Outubro de 2023, tendo sido considerado favorável à ratificação do tratado.
+
+O Tratado deve ser submetido à apreciação da Assembleia da República, conforme estipulado na Constituição da República Portuguesa. A sua aprovação deverá ser concretizada por meio de resolução parlamentar. Após a aprovação, será realizada a ratificação pelo Senhor Presidente da República, sendo posteriormente efetuada a comunicação do aviso de depósito do instrumento de ratificação junto da Organização das Nações Unidas, entidade depositária do tratado.
+
+**DESPACHO:**
+
+Face ao exposto, e tendo em conta o parecer favorável emitido por esta Direção-Geral, determino que sejam tomadas as diligências necessárias para a submissão do Tratado de Cooperação Científica entre Portugal e a República Popular da China à Assembleia da República, para que possa ser aprovada e ratificada, seguindo-se a respetiva comunicação de aviso de depósito do instrumento de ratificação.
+
+Lisboa, 15 de Outubro de 2023  
+[Assinatura]  
+António Silva  
+Diretor-Geral de Assuntos Internacionais  
+Ministério dos Negócios Estrangeiros
+
+---
+
+**ANEXO:**
+
+1. Parecer do MNE sobre o Tratado de Cooperação Científica
+2. Cópia do Tratado assinado entre as partes",documento_580_100.1003.docx,C:\Users\Francisco Azeredo\Downloads\gerador_documentos_gpt_azure (1)\gerador_documentos_gpt_azure\documentos_gerados\documento_777_100.1003.docx; C:\Users\Francisco Azeredo\Downloads\gerador_documentos_gpt_azure (1)\gerador_documentos_gpt_azure\documentos_gerados\documento_593_100.10002.docx; C:\Users\Francisco Azeredo\Downloads\gerador_documentos_gpt_azure (1)\gerador_documentos_gpt_azure\documentos_gerados\documento_693_100.1003.docx,"Documento Gerado #777
+**GOVERNO DA REPÚBLICA PORTUGUESA**  
+**MINISTÉRIO DOS NEGÓCIOS ESTRANGEIROS**  
+**DIRECÇÃO-GERAL DOS ASSUNTOS POLÍTICOS E DE SEGURANÇA**  
+
+**DE**: Direcção-Geral dos Assuntos Políticos e de Segurança  
+**ASSUNTO**: Aprovação e Ratificação do Acordo de Cooperação Científica e ...",22.98744070000248,False,False,0.9285714285714286,0.15517241379310345,0.2580645111758586,0.6428571428571429,0.706560492515564,False,False,0.4444444444444444,0.16822429906542055,0.2518518486518519,0.8235294117647058,False,-1
+"Quais são as obrigações de comunicação que os trabalhadores devem cumprir ao optar pelo teletrabalho, conforme o artigo 5.º do Decreto-Lei n.º 123/2022?","De acordo com o artigo 5.º do Decreto-Lei n.º 123/2022, os trabalhadores devem informar a entidade empregadora sobre a intenção de optar pelo teletrabalho. A interpretação deste artigo considera a necessidade de garantir a continuidade do serviço público, permitindo que a entidade empregadora solicite a apresentação de justificativas adequadas para a opção pelo teletrabalho, sem prejudicar os direitos dos trabalhadores.","### Resumo dos Documentos Gerados
+
+#### Documento 1: Projeto de Lei
+**Autor:** O Diretor-Geral da Legislação  
+**Data:** 30 de Outubro de 2023  
+
+- **Objeto:** Propor a criação do Regime Jurídico do Teletrabalho.
+- **Solicitações:**
+  - Garantir a participação das associações de trabalhadores e empregadores na discussão, promovendo diálogo aberto e construtivo.
+  - Anexar o projeto de lei, seus pareceres jurídicos e notas explicativas.
+
+#### Documento 2: Aprovação do Regulamento de Teletrabalho
+**Autor:** Direção-Geral de Recursos Humanos  
+**Data:** 10 de Outubro de 2023  
+
+- **Objeto:** Aprovar o Regulamento de Teletrabalho para a Administração da Cidade de Exemplo.
+- **Informações:**
+  - Ajustado às novas realidades laborais e promovendo flexibilidade.
+  - Parecer favorável do setor jurídico após análise detalhada.
+  - Entrada em vigor: 1 de Novembro de 2023.
+- **Ações:**
+  - Publicar através dos canais adequados.
+  - Distribuir cópias em formato digital a todos os serviços da Administração.
+
+---
+
+### Observações
+
+**Documentos Gerados:** 
+- **Projeto de Lei (n.º 123/2023):** Criação do Regime Jurídico do Teletrabalho.
+- **Aprovação do Regulamento de Teletrabalho:** Aprovado pela Administração da Cidade de Exemplo, com entrada em vigor prevista para o dia 1 de Novembro de 2023.
+
+---
+
+**Procedimentos Sugeridos:**
+1. **Revisão Jurídica**: Garantir que todos os documentos passam por uma revisão jurídica rigorosa.
+2. **Comunicação:** Assegurar a comunicação clara e ampla das novas normas aos trabalhadores.
+3. **Participação:** Promover a participação representativa para garantir o diálogo entre partes interessadas.
+
+Se você precisar de ajustes ou tem mais solicitações, estou à disposição!",documento_496_100.20.001.docx,C:\Users\Francisco Azeredo\Downloads\gerador_documentos_gpt_azure (1)\gerador_documentos_gpt_azure\documentos_gerados\documento_35_100.10.003.docx; C:\Users\Francisco Azeredo\Downloads\gerador_documentos_gpt_azure (1)\gerador_documentos_gpt_azure\documentos_gerados\documento_267_100.10.001.docx; C:\Users\Francisco Azeredo\Downloads\gerador_documentos_gpt_azure (1)\gerador_documentos_gpt_azure\documentos_gerados\documento_488_100.10.600.docx,"Documento Gerado #35
+**GOVERNO DA REPÚBLICA**  
+**MINISTÉRIO DA JUSTIÇA**  
+**DIREÇÃO-GERAL DA POLÍTICA JUDICIÁRIA**  
+
+**DE**: Direção-Geral da Política Judiciária  
+**A**: Todos os Órgãos Competentes  
+**ASSUNTO**: Comunicação de Decisão do Tribunal Constitucional  
+**DATA**: 15 de outubro de 2023...",21.6986590000015,False,False,0.35555555555555557,0.08955223880597014,0.14492753178743975,0.3333333333333333,0.7870842218399048,False,False,0.32075471698113206,0.0948905109489051,0.1543408325600439,0.5666666666666667,False,-1
+Quais são as responsabilidades do empregador segundo a Norma Técnica nº 123/2023 analisada no parecer da Direcção-Geral do Trabalho?,"Segundo a Norma Técnica nº 123/2023, o empregador é responsável por garantir as condições de segurança no ambiente de trabalho, devendo implementar medidas corretivas sempre que se identifiquem irregularidades.","Para que eu possa ajudar a amplamente divulgado o despacho relativo à proposta de norma técnica para a gestão da qualidade na construção civil, primeiro precisamos confirmar alguns detalhes:
+
+1. Quem é o destinatário principal do despacho?
+2. Qual é o canal específico escolhido para a divulgação (ex: site oficial, jornal, revistas técnicas)?
+3. Há alguma informação adicional que você gostaria de incluir?
+
+Supondo que você deseja publicar essa informação nos canais oficiais do Ministério do Trabalho e Segurança Social, aqui está um exemplo de como isso poderia ser feito:
+
+---
+
+**MINISTÉRIO DO TRABALHO E SEGURANÇA SOCIAL**
+
+**DIREÇÃO-GERAL DO EMPREGO E DAS RELAÇÕES DE TRABALHO**
+
+**Av. Dr. António Augusto Agostinho, nº 206**  
+**1753-008 Lisboa - Portugal**  
+**Telefone: (+351) 21 496 36 50**  
+**Email: geral@dgert.gov.pt**
+
+---
+
+### DIVULGAÇÃO DO PARECER
+
+A Direção-Geral do Emprego e das Relações de Trabalho vem, por este meio, amplamente divulgado o despacho relativo à proposta de norma técnica para a gestão da qualidade na construção civil.
+
+O referido despacho foi publicado no site oficial do Ministério do Trabalho e Segurança Social e enviada cópia às associações patronais e sindicais relevantes, com o objetivo de garantir uma compreensão uniforme da norma e a sua adequada implementação.
+
+**DESPACHO**
+
+Publique-se este despacho no site oficial do Ministério do Trabalho e Segurança Social e envie-se cópia para as associações patronais e sindicais relevantes.
+
+**[Assinatura Digital]**  
+**[Nome do Responsável]**  
+**[Cargo]**  
+**DIREÇÃO-GERAL DO EMPREGO E DAS RELAÇÕES DE TRABALHO**
+
+---
+
+### [Rodapé]
+
+Governo da República - Ministério do Trabalho e Segurança Social  
+Todos os direitos reservados.  
+Website oficial: [link]
+
+Este exemplo mantém a estrutura formal do despacho original, adicionando apenas a parte de divulgação. Se você precisar de outras adaptações ou informações adicionais, por favor, avise!",documento_59_100.20.400.docx,C:\Users\Francisco Azeredo\Downloads\gerador_documentos_gpt_azure (1)\gerador_documentos_gpt_azure\documentos_gerados\documento_722_100.20.400.docx; C:\Users\Francisco Azeredo\Downloads\gerador_documentos_gpt_azure (1)\gerador_documentos_gpt_azure\documentos_gerados\documento_163_100.20.400.docx; C:\Users\Francisco Azeredo\Downloads\gerador_documentos_gpt_azure (1)\gerador_documentos_gpt_azure\documentos_gerados\documento_356_100.10.800.docx,"Documento Gerado #722
+**GOVERNO DA REPÚBLICA**  
+**MINISTÉRIO DO TRABALHO E SEGURANÇA SOCIAL**  
+**DIRECÇÃO-GERAL DO TRABALHO**  
+
+**DE:** Direcção de Normas e Regulamentação  
+**PARA:** Unidade de Assessoria Jurídica  
+**ASSUNTO:** Elaboração de Orientação sobre a Interpretação da Norma Técnica N.º...",24.624136200000066,False,False,0.5517241379310345,0.12727272727272726,0.1587301537918873,0.2857142857142857,0.7022793292999268,False,False,0.31,0.088,0.15540540190307714,0.75,False,-1
+Qual é o direito previsto no Artigo 15.º da Lei n.º 123/2023 e como deve ser interpretado segundo o parecer técnico-jurídico emitido?,"O direito previsto no Artigo 15.º da Lei n.º 123/2023 é o direito de confirmação, que garante aos titulares de dados o direito de obter do responsável pelo tratamento a confirmação de que os seus dados pessoais são ou não objeto de tratamento. Segundo o parecer técnico-jurídico, este direito deve ser interpretado de forma ampla, assegurando que os titulares tenham acesso à informação sobre o tratamento dos seus dados pessoais.","### Documento Gerado #753
+
+**GOVERNO DE PORTUGAL**  
+*Ministério dos Negócios Estrangeiros*  
+*Direção-Geral de Assuntos Jurídicos*
+
+---
+
+**DE**: Direção-Geral de Assuntos Jurídicos  
+**ASSUNTO**: Aprovação da Convenção sobre a Eliminação de Todas as Formas de Discriminação Racial  
+**DATA**: 15 de Março de 2023  
+**NÚMERO**: 1234/2023  
+
+---
+
+**INFORMAÇÃO**
+
+No âmbito das obrigações internacionais do Estado Português e em conformidade com a legislação aplicável, a presente comunicação tem como objetivo a manifestação do consentimento à vinculação nacional da Convenção sobre a Eliminação de Todas as Formas de Discriminação Racial, adotada pela Assembleia Geral das Nações Unidas em 21 de Dezembro de 1965.
+
+A análise preliminar do MNE, datada de 10 de Fevereiro de 2023, recomenda a ratificação da referida convenção, considerando que a sua adesão é um passo fundamental para o fortalecimento dos direitos humanos em Portugal e para a promoção da igualdade racial no contexto internacional.
+
+A convenção foi discutida em reunião do Conselho de Ministros em 1 de Março de 2023, tendo sido aprovada por unanimidade. Assim, propõe-se a apresentação da seguinte resolução ao Parlamento:
+
+---
+
+**RESOLUÇÃO DO PARLAMENTO**
+
+**Artigo 1.º**
+Aprova-se a ratificação da Convenção sobre a Eliminação de Todas as Formas de Discriminação Racial.
+
+**Artigo 2.º**
+O Governo é autorizado a proceder ao depósito do instrumento de ratificação junto da Secretaria-Geral da Organização das Nações Unidas.
+
+**Artigo 3.º**
+A presente resolução entra em vigor no dia seguinte ao da sua publicação.
+
+---
+
+**DESPACHO**
+
+Com os elementos apresentados e a deliberação do Conselho de Ministros, determina-se que o Ministro dos Negócios Estrangeiros proceda à assinatura do instrumento de ratificação da Convenção sobre a Eliminação de Todas as Formas de Discriminação Racial e à subsequente comunicação do aviso de depósito do instrumento junto da Secretaria-Geral das Nações Unidas, conforme estipulado no artigo 2.º da resolução aprovada.
+
+Este despacho deverá ser acompanhado da documentação necessária e do parecer do MNE, a ser enviado ao Arquivo Nacional, para efeitos de registo e consulta.
+
+Lisboa, 15 de Março de 2023
+
+__________________________  
+[Nome do Responsável]  
+Diretor-Geral de Assuntos Jurídicos  
+Ministério dos Negócios Estrangeiros  
+
+---
+
+**ANEXOS**:  
+1. Cópia da resolução do Conselho de Ministros  
+2. Parecer do MNE sobre a Convenção
+
+### Documento Gerado #753
+
+**GOVERNO DE PORTUGAL**  
+*Ministério dos Negócios Estrangeiros*  
+Direção-Geral da Política de Justiça  
+
+---
+
+**DE**: Direção-Geral da Política de Justiça  
+**ASSUNTO**: Parecer sobre a Lei n.º 123/2023  
+**DATA**: 15 de Março de 2023  
+**NÚMERO**: 9876/2023  
+
+---
+
+**INFORMAÇÃO**
+
+Este parecer é vinculativo para a entidade requerente e deverá ser utilizado como orientação para a implementação das normas estabelecidas na Lei n.º 123/2023.
+
+Recomenda-se ainda que a entidade realize formação adequada sobre as novas obrigações legais, a fim de garantir a correta aplicação do regime jurídico em vigor.
+
+Sem mais,
+
+__________________________  
+[Nome do Responsável]  
+[Cargo do Responsável]  
+Direção-Geral da Política de Justiça  
+
+---
+
+**ANEXOS**:  
+1. Cópia do pedido de parecer  
+2. Cópia da Lei n.º 123/2023",documento_149_100.20.001.docx,C:\Users\Francisco Azeredo\Downloads\gerador_documentos_gpt_azure (1)\gerador_documentos_gpt_azure\documentos_gerados\documento_735_100.10.003.docx; C:\Users\Francisco Azeredo\Downloads\gerador_documentos_gpt_azure (1)\gerador_documentos_gpt_azure\documentos_gerados\documento_172_100.20.001.docx; C:\Users\Francisco Azeredo\Downloads\gerador_documentos_gpt_azure (1)\gerador_documentos_gpt_azure\documentos_gerados\documento_753_100.10002.docx,"Documento Gerado #735
+**GOVERNO DA REPÚBLICA**
+
+**DE**: Tribunal Constitucional  
+**ASSUNTO**: Comunicação de Decisão - Declaração de Inconstitucionalidade  
+**DATA**: 15 de outubro de 2023  
+
+---
+
+**À**  
+Ministério da Justiça  
+Direção-Geral da Política de Justiça  
+A/C Sr. Diretor-Geral  
+Rua das...",24.560671999992337,False,False,0.5,0.14606741573033707,0.2692307642381657,0.8,0.6041207909584045,False,False,0.26666666666666666,0.07346938775510205,0.1459853990183281,0.5454545454545454,False,-1
+Quantas candidaturas válidas foram recebidas para os cursos de Mestrado em Gestão no processo de seleção para o 2º ciclo de estudos do ano letivo de 2023/2024?,Foram recebidas 50 candidaturas válidas para os cursos de Mestrado em Gestão.,"Com base no documento gerado, aqui está um resumo e algumas sugestões de ações:
+
+Resumo:
+- Foram recebidas 150 candidaturas para o 2º ciclo de estudos.
+- 120 candidaturas foram consideradas completas e elegíveis.
+- O processo de avaliação ocorreu entre 5 e 12 de outubro.
+- Cinco candidatos foram selecionados, com notas variando entre 15 a 19 valores.
+- A notificação será feita por e-mail aos candidatos selecionados.
+- Os candidatos devem proceder à matrícula até o dia 30 de outubro.
+
+Ações sugeridas:
+
+1. Confirmar os dados de contato dos candidatos selecionados (e-mails).
+
+2. Preparar as notificações para os candidatos, incluindo informações sobre a matrícula e prazos.
+
+3. Verificar se há um sistema online para matrículas ou se será necessário uma matriz presencial.
+
+4. Iniciar o processo de matrícula com base nas instruções enviadas aos candidatos.
+
+5. Elaborar um relatório final com os resultados da seleção e análise das candidaturas, conforme solicitado pelo despacho.
+
+6. Planejar a reunião de direção no dia 15/11 para apresentação dos resultados finais.
+
+7. Armazenar o documento gerado nos serviços competentes para futuras consultas.",documento_120_100.10.01.02.docx,C:\Users\Francisco Azeredo\Downloads\gerador_documentos_gpt_azure (1)\gerador_documentos_gpt_azure\documentos_gerados\documento_619_100.10.01.02.docx; C:\Users\Francisco Azeredo\Downloads\gerador_documentos_gpt_azure (1)\gerador_documentos_gpt_azure\documentos_gerados\documento_120_100.10.01.02.docx; C:\Users\Francisco Azeredo\Downloads\gerador_documentos_gpt_azure (1)\gerador_documentos_gpt_azure\documentos_gerados\documento_755_100.10.01.02.docx,"Documento Gerado #619
+**[Cabeçalho da Entidade]**  
+**Instituto de Educação e Formação**  
+**Rua das Instituições, nº 10**  
+**1234-567 Lisboa**  
+**Telefone: 21 123 4567**  
+**Email: info@educacao.gov.pt**  
+
+**DATA:** 15 de março de 2023  
+
+**ASSUNTO:** Análise de Candidaturas para o 2º Ciclo de F...",14.039852200003224,False,False,0.5,0.15625,0.2702702658875092,0.4166666666666667,0.7269745469093323,False,False,0.5211267605633803,0.1712707182320442,0.2857142819642857,0.7777777777777778,True,1
+Quais foram as principais sugestões recebidas durante a consulta pública sobre o projeto de lei da Promoção da Igualdade de Género no Mercado de Trabalho?,As principais sugestões recebidas destacam a importância de uma maior fiscalização das normas a serem implementadas e a necessidade de sensibilização das empresas sobre a temática da igualdade de género.,"### Resposta ao Documento Gerado #23
+
+**GOVERNO DA REPÚBLICA**
+**MINISTÉRIO DOS NEGÓCIOS ESTRANGEIROS**
+**DIRECTOR-GERAL DE RELAÇÕES INTERNACIONAIS**
+
+---
+
+#### **Referência:** Depósito de Ratificação da Convenção sobre a Proteção dos Direitos de Todas as Pessoas Contra a Discriminação e a Violência Baseada no Género
+
+---
+
+#### **DE:** Director-Geral de Relações Internacionais
+**PARA:** [Departamento de Tratados e Acordos do Ministério dos Negócios Estrangeiros]
+**ASSUNTO:** Depósito do Instrumento de Ratificação da Convenção sobre a Proteção dos Direitos de Todas as Pessoas Contra a Discriminação e a Violência Baseada no Género
+**DATA:** 24 de Outubro de 2023
+
+---
+
+#### **Informação:**
+
+De acordo com o artigo 18.º da Convenção sobre a Proteção dos Direitos de Todas as Pessoas Contra a Discriminação e a Violência Baseada no Género, foi realizado o depósito do instrumento de ratificação junto das Nações Unidas.
+
+#### **Procedimento Seguinte:**
+
+Aguardo a sua orientação quanto ao prosseguimento deste processo.
+
+---
+
+**Com os melhores cumprimentos,**
+
+**Assinatura:**  
+[Nome do Responsável]  
+Director-Geral de Relações Internacionais  
+Ministério dos Negócios Estrangeiros  
+
+**Contacto: [número de telefone] | Email: [email do responsável]**  
+
+---
+
+#### **Anexos:**
+
+1. Texto da Convenção sobre a Proteção dos Direitos de Todas as Pessoas Contra a Discriminação e a Violência Baseada no Género  
+2. Parecer Jurídico sobre a Convenção  
+3. Documento de Análise de Impacto sobre a Legislação Nacional
+
+---
+
+Este documento foi gerado automaticamente com base nas informações fornecidas pelo sistema. Caso haja alguma informação adicional ou alteração necessária, por favor, avise-nos para procedermos conforme as suas instruções.
+
+---
+
+**[Número do Documento: 24]**  
+**Data de Emissão:** 24/10/2023
+
+---",documento_441_100.10.01.docx,C:\Users\Francisco Azeredo\Downloads\gerador_documentos_gpt_azure (1)\gerador_documentos_gpt_azure\documentos_gerados\documento_441_100.10.01.docx; C:\Users\Francisco Azeredo\Downloads\gerador_documentos_gpt_azure (1)\gerador_documentos_gpt_azure\documentos_gerados\documento_891_100.10002.docx; C:\Users\Francisco Azeredo\Downloads\gerador_documentos_gpt_azure (1)\gerador_documentos_gpt_azure\documentos_gerados\documento_24_100.10.01.docx,"Documento Gerado #441
+**GOVERNO DA REPÚBLICA**  
+**MINISTÉRIO DA JUSTIÇA**  
+**DIRECÇÃO-GERAL DA POLÍTICA LEGISLATIVA**  
+
+**DE:** Direcção-Geral da Política Legislativa  
+**ASSUNTO:** Projeto de Lei sobre a Promoção da Igualdade de Género no Mercado de Trabalho  
+**DATA:** 15 de Novembro de 2023  
+...",23.259457599997404,False,False,0.3333333333333333,0.15789473684210525,0.22727272231404969,0.3333333333333333,0.5179766416549683,False,False,0.45108695652173914,0.15217391304347827,0.25441695730250097,0.6666666666666666,True,0
+Quais são as principais disposições incluídas no projeto de regulamento sobre a mediação judicial aprovado pela Direção-Geral da Política de Justiça?,As principais disposições incluídas no projeto de regulamento sobre a mediação judicial são: definição dos princípios da mediação judicial; estabelecimento de critérios de formação e certificação dos mediadores; procedimentos para a realização de sessões de mediação; e normas de confidencialidade e imparcialidade a serem observadas durante o processo.,"Aqui está o resumo das decisões dos dois acórdãos:
+
+1. Acórdão N.º 522/2023 (25 de março de 2023):
+   - Uniformização de jurisprudência sobre a interpretação do artigo 290.º do Código Civil em casos de responsabilidade civil.
+   - Determinação da publicação no Diário da República e na plataforma oficial do Tribunal.
+
+2. Acórdão N.º 1234/2023 (15 de março de 2023):
+   - Uniformização de jurisprudência sobre a aplicabilidade do artigo 290.º do Código Civil em situações de responsabilidade civil.
+   - Determinação da publicação no Diário da República e na plataforma oficial do Tribunal.
+
+Em ambos os acórdãos, o objetivo é garantir a uniformidade jurisprudencial entre as instâncias judiciais inferiores, promovendo a segurança jurídica.",documento_459_100.10.200.docx,C:\Users\Francisco Azeredo\Downloads\gerador_documentos_gpt_azure (1)\gerador_documentos_gpt_azure\documentos_gerados\documento_616_100.10.003.docx; C:\Users\Francisco Azeredo\Downloads\gerador_documentos_gpt_azure (1)\gerador_documentos_gpt_azure\documentos_gerados\documento_639_100.20.600.docx; C:\Users\Francisco Azeredo\Downloads\gerador_documentos_gpt_azure (1)\gerador_documentos_gpt_azure\documentos_gerados\documento_522_100.20.600.docx,"Documento Gerado #616
+**GOVERNO DA REPÚBLICA**  
+**MINISTÉRIO DA JUSTIÇA**  
+**DIREÇÃO-GERAL DA POLÍTICA DE JUSTIÇA**  
+
+**DE:** Direção-Geral da Política de Justiça  
+**ASSUNTO:** Comunicação de Decisão do Tribunal Constitucional  
+**DATA:** 15 de Outubro de 2023  
+
+---
+
+**À:**  
+Presidência do Con...",11.674087399995187,False,False,0.2571428571428571,0.06382978723404255,0.11999999615200012,0.23076923076923078,0.6529093384742737,False,False,0.2731707317073171,0.08270676691729323,0.13815789130042425,0.42857142857142855,False,-1
+Qual é a data em que o parecer do Ministério dos Negócios Estrangeiros sobre a ratificação da Convenção Internacional sobre os Direitos das Pessoas com Deficiência foi elaborado?,O parecer elaborado pelo Ministério dos Negócios Estrangeiros foi datado de 10 de Outubro de 2023.,"Baseado nas informações fornecidas, parece que há confusão entre dois documentos distintos: um relacionado à ratificação da Convenção sobre a Proteção dos Direitos das Pessoas com Deficiência e outro referente à aprovação desta mesma convenção. Vamos analisar os documentos individualmente:
+
+1. **Resolução de Ratificação (2024)**:
+   - Data: 15 de março de 2024
+   - Documento relativo a Portugal ratificando a Convenção sobre a Proteção dos Direitos das Pessoas com Deficiência.
+   - Atendendo ao parecer do Ministério dos Negócios Estrangeiros e à aprovação parlamentar, determina-se:
+     1. Ratificação da Convenção
+     2. Comunicação de ratificação ao Secretariado das Nações Unidas
+     3. Publicação em Diário da República para entrada em vigor no ordenamento jurídico português.
+   - Autorizado pelo Ministro dos Negócios Estrangeiros.
+
+2. **Despacho Aprovação (2023)**:
+   - Data: 15 de outubro de 2023
+   - Documento relativo ao processo de aprovação da ratificação da Convenção Internacional sobre a Proteção dos Direitos das Pessoas com Deficiência.
+   - Atendendo ao parecer do Ministério dos Negócios Estrangeiros e à aprovação pela Assembleia da República, determina-se:
+     1. Ratificação da Convenção
+     2. Comunicação de ratificação às Nações Unidas e demais Estados contratantes.
+   - Autorizado pelo Ministro dos Negócios Estrangeiros.
+
+### Observações:
+
+- **Tempo**: O despacho de 2023 (aprovando) antecede o despacho de 2024 (ratificação).
+- **Processo Jurídico**: 
+  - O primeiro documento (2023) aprova a ratificação, mas ainda não há uma decisão formal de ratificação.
+  - O segundo documento (2024) é um desdobramento do processo de aprovação, finalizando o procedimento com a ratificação formal.
+
+### Sugestão para Ajustamento:
+
+Se ambos os documentos estão corretos e relacionados à mesma convenção, é importante que o despacho de 2023 seja visto como uma etapa previamente necessária antes da ratificação formal em 2024. A resolução de 2024 deve incluir menções claras ao processo já aprovado no ano anterior:
+
+**Recomendações:**
+
+1. **Resolução de Ratificação (2024)**:
+   - Adicionar uma breve referência à aprovação do despacho de 2023, por exemplo: ""Atendendo ao parecer do Ministério dos Negócios Estrangeiros e à aprovação parlamentar, que já se encontra em processo desde o despacho nº44/2023.""
+
+2. **Despacho Aprovação (2023)**:
+   - Corrigir a data para 15 de março de 2024, devido ao erro na data atual.
+   - Esclarecer que este é um despacho que aprova o processo de ratificação.
+
+### Exemplo Ajustado:
+
+**Resolução de Ratificação (2024)**:
+```plaintext
+Atendendo ao parecer do Ministério dos Negócios Estrangeiros e à aprovação parlamentar, que já se encontra em processo desde o despacho nº44/2023, determino a:
+
+1. Ratificação da Convenção sobre a Proteção dos Direitos das Pessoas com Deficiência;
+2. Comunicação da ratificação ao Secretariado das Nações Unidas, juntamente com o aviso de depósito do instrumento de ratificação, conforme estipulado no artigo 45.º da convenção;
+3. Publicação em Diário da República, nos termos legais aplicáveis, para efeitos de entrada em vigor da convenção no ordenamento jurídico português.
+
+Lisboa, 15 de março de 2024
+
+[Assinatura]
+[Nome do Ministro]
+Ministro dos Negócios Estrangeiros
+```
+
+**Despacho Aprovação (2023)**:
+```plaintext
+Atendendo ao parecer do Ministério dos Negócios Estrangeiros e à aprovação pela Assembleia da República, determina-se a ratificação da Convenção Internacional sobre a Proteção dos Direitos das Pessoas com Deficiência.
+
+Lisboa, 15 de março de 2024
+
+[Assinatura]
+[Nome do Ministro]
+Ministro dos Negócios Estrangeiros
+```
+
+Espero que essas sugestões sejam úteis para a correção e harmonização dos documentos. Se houver mais detalhes ou contextos específicos, fique à vontade para fornecê-los!",documento_849_100.10002.docx,C:\Users\Francisco Azeredo\Downloads\gerador_documentos_gpt_azure (1)\gerador_documentos_gpt_azure\documentos_gerados\documento_733_100.1003.docx; C:\Users\Francisco Azeredo\Downloads\gerador_documentos_gpt_azure (1)\gerador_documentos_gpt_azure\documentos_gerados\documento_499_100.1003.docx; C:\Users\Francisco Azeredo\Downloads\gerador_documentos_gpt_azure (1)\gerador_documentos_gpt_azure\documentos_gerados\documento_64_100.10002.docx,"Documento Gerado #733
+**MINISTÉRIO DOS NEGÓCIOS ESTRANGEIROS**  
+**DIRECÇÃO-GERAL DOS ASSUNTOS POLÍTICOS**  
+**AV. DA LIBERDADE, Nº 123, 4º ANDAR**  
+**1010-000 LISBOA**  
+**TELEFONE: +351 21 123 4567**  
+**EMAIL: dgap@dga.gov.pt**  
+
+---
+
+**DE**: Direcção-Geral dos Assuntos Políticos  
+**ASSUNTO**:...",21.428226200005156,False,False,0.7142857142857143,0.20833333333333334,0.3809523765079365,0.5,0.753271222114563,False,False,0.48314606741573035,0.1651376146788991,0.2592592560150892,0.8928571428571429,False,-1
+Quais são as diretrizes estabelecidas para o recrutamento e seleção de servidores segundo a Norma Técnica n.º 45/2023?,"As entidades devem seguir rigorosamente os procedimentos estabelecidos na norma, priorizando a transparência e a publicidade dos processos seletivos.","### Despacho do Ministério dos Negócios Estrangeiros
+
+**DESPACHO**
+
+Com os elementos apresentados e a deliberação do Conselho de Ministros, determina-se que o Ministro dos Negócios Estrangeiros proceda à assinatura do instrumento de ratificação da Convenção sobre a Eliminação de Todas as Formas de Discriminação Racial e à subsequente comunicação do aviso de depósito do instrumento junto da Secretaria-Geral das Nações Unidas, conforme estipulado no artigo 2.º da resolução aprovada.
+
+Este despacho deverá ser acompanhado da documentação necessária e do parecer do MNE, a ser enviado ao Arquivo Nacional, para efeitos de registo e consulta.
+
+Lisboa, 15 de Março de 2023
+
+__________________________
+
+[Nome do Responsável]
+
+Diretor-Geral de Assuntos Jurídicos  
+Ministério dos Negócios Estrangeiros
+
+---
+
+### Documento Gerado #535
+
+**GOVERNO DA REPÚBLICA**
+
+**MINISTÉRIO DA JUSTIÇA**
+
+**DIREÇÃO-GERAL DA ADMINISTRAÇÃO DA JUSTIÇA**
+
+**DE: Direção-Geral da Administração da Justiça**
+
+**PARA: Todos os Órgãos e Serviços do Estado**
+
+**ASSUNTO: Comunicação de Declaração de Inconstitucionalidade**
+
+**DATA: 20 de outubro de 2023**
+
+---
+
+**INFORMAÇÃO**
+
+Na sequência do Acórdão proferido pelo Tribunal Constitucional, datado de 15 de outubro de 2023, e que se encontra em anexo, informamos que foi declarada a inconstitucionalidade da norma regulamentar prevista no artigo 5.º do Decreto-Lei n.º 123/2020, publicado em 18 de junho de 2020. Esta declaração possui força obrigatória geral, conforme estipulado na legislação em vigor.
+
+O Tribunal Constitucional fundamentou a sua decisão na violação dos princípios constitucionais consagrados na nossa Constituição, nomeadamente o direito à igualdade e a proteção da dignidade da pessoa humana. A norma em questão impunha restrições que se mostravam desproporcionais e injustificadas, afetando direitos fundamentais dos cidadãos.
+
+**DESPACHO**
+
+Determina-se que esta comunicação seja remetida a todos os órgãos competentes, incluindo, mas não se limitando a, Ministérios, Autarquias Locais e Instituições Públicas. A publicação oficial da declaração de inconstitucionalidade será efetuada no Diário da República, conforme os trâmites legais.
+
+Os órgãos e serviços do Estado deverão proceder à imediata adequação das suas atividades e normativos internos em consonância com a decisão proferida pelo Tribunal Constitucional, garantindo assim a observância das normas constitucionais.
+
+Solicita-se, ainda, que as informações sobre a implementação desta decisão sejam reportadas à Direção-Geral da Administração da Justiça até ao dia 30 de novembro de 2023.
+
+**ANEXO:**
+
+Acórdão n.º 456/2023 do Tribunal Constitucional
+
+**Visto e aprovado,**
+
+__________________________
+
+[Nome do Responsável]
+
+Diretor-Geral da Administração da Justiça
+
+---
+
+**Nota:** Este documento é de carácter oficial e destina-se exclusivamente à comunicação das decisões do Tribunal Constitucional a todos os órgãos competentes, devendo ser tratado com a devida confidencialidade e ser arquivado de acordo com as normas arquivísticas em vigor.",documento_659_100.20.400.docx,C:\Users\Francisco Azeredo\Downloads\gerador_documentos_gpt_azure (1)\gerador_documentos_gpt_azure\documentos_gerados\documento_35_100.10.003.docx; C:\Users\Francisco Azeredo\Downloads\gerador_documentos_gpt_azure (1)\gerador_documentos_gpt_azure\documentos_gerados\documento_753_100.10002.docx; C:\Users\Francisco Azeredo\Downloads\gerador_documentos_gpt_azure (1)\gerador_documentos_gpt_azure\documentos_gerados\documento_535_100.10.003.docx,"Documento Gerado #35
+**GOVERNO DA REPÚBLICA**  
+**MINISTÉRIO DA JUSTIÇA**  
+**DIREÇÃO-GERAL DA POLÍTICA JUDICIÁRIA**  
+
+**DE**: Direção-Geral da Política Judiciária  
+**A**: Todos os Órgãos Competentes  
+**ASSUNTO**: Comunicação de Decisão do Tribunal Constitucional  
+**DATA**: 15 de outubro de 2023...",19.38621609999973,False,False,0.3888888888888889,0.10256410256410256,0.18181817698347122,0.2777777777777778,0.7121581435203552,False,False,0.2560386473429952,0.08661417322834646,0.15068492866860578,0.4489795918367347,False,-1
+Quais são as principais alterações propostas ao Código de Procedimento Administrativo conforme o documento gerado em 15 de Outubro de 2023?,As principais alterações propostas ao Código de Procedimento Administrativo são: 1) Redução de Prazos para a prática de actos administrativos; 2) Digitalização de Processos para a tramitação de processos administrativos; 3) Simplificação de Formulários utilizados nos procedimentos administrativos; e 4) Criação de um serviço de Apoio ao Cidadão através de uma linha telefónica e de um portal na internet.,"Os dois documentos gerados são importantes para diferentes contextos, mas partilham o objetivo comum de apresentar propostas ou avanços em políticas e direitos sociais. Vou fornecer uma análise detalhada de cada um:
+
+### Documento Gerado #1
+
+**Contexto:**
+Este documento é do Ministério dos Negócios Estrangeiros, anunciando a ratificação da Convenção sobre os Direitos das Pessoas com Deficiência (CRPD) pelo Governo Português.
+
+**Conteúdo Principal:**
+- **Data de Ratificação e Depósito:** 30 de Outubro de 2023.
+- **Procedimento:** A Direcção-Geral dos Assuntos Políticos deve preparar o aviso de depósito do instrumento de ratificação e garantir a sua envio até à data estipulada.
+- **Divulgação:** Inicia-se um plano de divulgação da convenção junto das entidades públicas e organizações da sociedade civil para promover a implementação eficaz dos direitos das pessoas com deficiência em Portugal.
+
+**Detalhes Importantes:**
+1. **Data Limite:** 30 de Outubro de 2023 é o prazo para depósito do instrumento de ratificação.
+2. **Divulgação:** O objetivo é garantir a implementação eficaz e promoção dos direitos das pessoas com deficiência em Portugal.
+
+**Importância:**
+Este documento reforça os compromissos internacionais da Portugal em relação aos direitos das pessoas com deficiência, promovendo a igualdade e inclusão social através de políticas nacionais.
+
+### Documento Gerado #2
+
+**Contexto:**
+Este documento é do Ministério da Administração Pública, dirigido à Assembleia da República, apresentando uma proposta de lei para o Regime de Apoio ao Emprego Jovem.
+
+**Conteúdo Principal:**
+- **Proposta de Lei:** N.º 45/2023.
+- **Objetivos Principais:** 
+  1. Promover a inserção dos jovens no mercado de trabalho.
+  2. Fomentar a formação profissional e qualificação dos jovens.
+  3. Estabelecer parcerias entre entidades empregadoras e instituições de ensino e formação profissional.
+- **Mecanismos:** 
+  - Concessão de subsídios à contratação.
+  - Implementação de programas de formação profissional para jovens entre 18 e 30 anos.
+  - Avaliação anual do impacto do regime de apoio.
+- **Apreciação:** Solicitação da Assembleia da República para apreciar e discutir a proposta na próxima sessão plenária.
+
+**Detalhes Importantes:**
+1. **Objetivos:** A iniciativa visa não apenas promover o emprego jovem, mas também melhorar a formação e inserção profissional.
+2. **Mecanismos:** O apoio inclui subsídios à contratação e programas de formação.
+3. **Avaliação:** Haverá uma avaliação anual do impacto para garantir eficácia.
+
+**Importância:**
+Esta proposta visa resolver um problema social significativo (desemprego jovem) através de medidas direcionadas, reforçando a política de emprego e inclusão social no país.
+
+### Conclusão
+
+Ambos os documentos são fundamentais para o fortalecimento das políticas sociais em Portugal. O primeiro destaca a implementação internacional de direitos humanos, enquanto o segundo foca na melhoria do mercado de trabalho através da qualificação profissional dos jovens. Ambos contribuem significativamente para uma sociedade mais inclusiva e economicamente forte.
+
+### Sugestões:
+
+- **Para o Documento #1:** Certificar-se de que todas as entidades envolvidas estejam cientes do prazo e das ações necessárias.
+- **Para o Documento #2:** Assegurar uma discussão abrangente na Assembleia da República para garantir a adequação dos mecanismos propostos.
+
+Esses documentos são exemplos de como a política pode ser formulada e implementada para beneficiar diretamente os cidadãos portugueses.",documento_916_100.10.01.docx,C:\Users\Francisco Azeredo\Downloads\gerador_documentos_gpt_azure (1)\gerador_documentos_gpt_azure\documentos_gerados\documento_150_100.10.01.docx; C:\Users\Francisco Azeredo\Downloads\gerador_documentos_gpt_azure (1)\gerador_documentos_gpt_azure\documentos_gerados\documento_171_100.1003.docx; C:\Users\Francisco Azeredo\Downloads\gerador_documentos_gpt_azure (1)\gerador_documentos_gpt_azure\documentos_gerados\documento_24_100.10.01.docx,"Documento Gerado #150
+**GOVERNO DA REPÚBLICA**
+
+**DE:** Assembleia da República  
+**ASSUNTO:** Proposta de Lei n.º 123/A/2023 - Regime Jurídico da Proteção de Dados Pessoais  
+**DATA:** 15 de outubro de 2023  
+
+---
+
+**INFORMAÇÃO:**
+
+No âmbito da sessão legislativa em curso e de acordo com o artigo 1...",23.884715499996673,False,False,0.42857142857142855,0.08333333333333333,0.15151514697428847,0.2727272727272727,0.5787245631217957,False,False,0.34054054054054056,0.14468085106382977,0.24028268168412648,0.6666666666666666,False,-1
+Qual é o assunto do documento gerado pelo Governo Municipal de Exemplo em 15 de outubro de 2023?,O assunto do documento é a 'Aprovação do Relatório Anual de Atividades da Divisão de Cultura e Desporto'.,"### Análise dos Documentos Gerados
+
+#### Despacho do Presidente da Assembleia da República
+
+**Contexto:** 
+Este despacho trata de uma proposta de lei que foi submetida à aprovação. A proposta é relativa à proteção de dados pessoais e a sua análise considerou os pareceres emitidos pela Comissão Nacional de Proteção de Dados e pelos especialistas da área, que foram favoráveis.
+
+**Resultados Principais:**
+1. **Aprovação:** O projeto foi aprovado após a análise positiva dos pareceres.
+2. **Agendamento:** A discussão final está agendada para o dia 30 de outubro de 2023, durante a qual serão ouvidas diversas entidades sociais e públicas.
+3. **Arquivamento:** Os documentos relacionados à proposta serão arquivados conforme a legislação vigente.
+
+**Conclusão:**
+O despacho indica que o projeto foi bem-sucedido na sua análise e está pronto para ser discutido em plenário, garantindo a privacidade e segurança dos dados pessoais no contexto digital atual.
+
+---
+
+#### Projeto de Regulamentação do Uso de Espaços Públicos
+
+**Contexto:** 
+Este documento trata da aprovação de um projeto que visa regulamentar o uso de espaços públicos no município de Exemplo. A proposta foi discutida em uma reunião do Comitê de Gestão de Espaços Públicos e recebeu sugestões que foram incorporadas ao documento final.
+
+**Resultados Principais:**
+1. **Aprovação:** O projeto foi aprovado após ser discutido e analisado minuciosamente.
+2. **Publicação:** Após a aprovação, o projeto será publicado no Diário Oficial do Município.
+3. **Divulgação:** Uma campanha de divulgação será promovida para informar a população sobre as novas normas e procedimentos relacionados ao uso dos espaços públicos.
+
+**Conclusão:**
+O documento indica que o projeto foi bem-sucedido na sua implementação, garantindo a organização, segurança e bem-estar dos cidadãos, bem como a otimização da utilização dos espaços públicos para atividades culturais, recreativas e comerciais.
+
+---
+
+### Conclusão
+
+Ambos os documentos gerados são resultado de processos de aprovação de projetos importantes. O primeiro documento trata de proteger dados pessoais na era digital, enquanto o segundo visa melhorar a gestão dos espaços públicos em um município específico. Ambas as propostas foram bem-sucedidas e estão prontas para serem implementadas.
+
+### Recomendações
+
+1. **Comunicação:** Garantir que todos os stakeholders envolvidos estejam informados sobre o andamento do processo.
+2. **Implementação:** Após a aprovação, garantir uma comunicação clara e eficaz com a população sobre as novas regras para utilização dos espaços públicos.
+3. **Arquivamento:** Garantir que todos os documentos relacionados à proposta sejam corretamente arquivados de acordo com o procedimento estabelecido.
+
+Essas recomendações visam garantir a transparência e eficácia do processo legislativo em ambos os casos.",documento_955_100.APR.docx,C:\Users\Francisco Azeredo\Downloads\gerador_documentos_gpt_azure (1)\gerador_documentos_gpt_azure\documentos_gerados\documento_124_100.APR.docx; C:\Users\Francisco Azeredo\Downloads\gerador_documentos_gpt_azure (1)\gerador_documentos_gpt_azure\documentos_gerados\documento_150_100.10.01.docx; C:\Users\Francisco Azeredo\Downloads\gerador_documentos_gpt_azure (1)\gerador_documentos_gpt_azure\documentos_gerados\documento_691_100.APR.docx,"Documento Gerado #124
+**GOVERNO MUNICIPAL DE EXEMPLO**  
+**DEPARTAMENTO DE ADMINISTRAÇÃO E PLANEJAMENTO**  
+**ENDEREÇO: Avenida da Cidadania, nº 100, Centro, 12345-678, Exemplo**  
+**TELEFONE: (12) 3456-7890**  
+**E-MAIL: contato@exemplo.gov.br**  
+
+---
+
+**Nº 1234/2023**  
+**ASSUNTO:** Aprovação de ...",17.94416139999521,False,False,0.625,0.15151515151515152,0.22222221763950628,0.375,0.7072858214378357,False,False,0.36551724137931035,0.1793478260869565,0.280851059985876,0.5892857142857143,False,-1
+"Qual é a interpretação recomendada para o artigo 23.º da Lei n.º 58/2019, de acordo com o parecer técnico-jurídico emitido pelo Ministério da Justiça?","O artigo 23.º deve ser interpretado à luz do princípio da proporcionalidade, respeitando sempre os direitos fundamentais dos cidadãos. A limitação de direitos prevista nesta norma deve ser utilizada com cautela e rigor, e apenas em situações onde haja uma clara justificação que demonstre a necessidade da restrição.","Aqui está a publicação corrigida e formatada:
+
+---
+
+**DESPACHO**
+
+Com os elementos apresentados e a deliberação do Conselho de Ministros, determina-se que o Ministro dos Negócios Estrangeiros proceda à assinatura do instrumento de ratificação da Convenção sobre a Eliminação de Todas as Formas de Discriminação Racial e à subsequente comunicação do aviso de depósito do instrumento junto da Secretaria-Geral das Nações Unidas, conforme estipulado no artigo 2.º da resolução aprovada.
+
+Este despacho deverá ser acompanhado da documentação necessária e do parecer do MNE, a ser enviado ao Arquivo Nacional, para efeitos de registo e consulta.
+
+Lisboa, 15 de Março de 2023
+
+**Assinatura**
+
+__________________________  
+[Nome do Responsável]  
+Diretor-Geral de Assuntos Jurídicos  
+Ministério dos Negócios Estrangeiros
+
+---
+
+**GOVERNO DA REPÚBLICA**  
+**MINISTÉRIO DA JUSTIÇA**  
+**DIREÇÃO-GERAL DOS ASSUNTOS JURÍDICOS**  
+**DEPARTAMENTO DE PARECERES TÉCNICO-JURÍDICOS**
+
+**À**  
+Exma. Sra. Diretora da Comissão Nacional de Proteção de Dados  
+Rua de São Bento, nº 123  
+1200-123 Lisboa
+
+**ASSUNTO:** Parecer técnico-jurídico sobre a interpretação do artigo 23.º da Lei n.º 58/2019, de 8 de agosto.
+
+**DATA:** 15 de outubro de 2023
+
+**INFORMAÇÃO:**
+
+No âmbito do pedido de parecer formulado por esta Comissão, datado de 1 de outubro de 2023, e em conformidade com o procedimento habitual, foi efetuada a análise detalhada do artigo 23.º da Lei n.º 58/2019, que estabelece o regime jurídico da proteção de dados pessoais.
+
+A referida disposição legal versa sobre a ""Limitação de direitos"" em situações específicas, nomeadamente no que se refere à proteção de dados pessoais quando esta se sobrepõe a interesses públicos e à necessidade de garantir a segurança nacional. A interpretação deste artigo suscita dúvidas sobre a sua aplicação prática e sobre os limites da restrição de direitos dos titulares dos dados.
+
+**DESPACHO:**
+
+Após a análise da legislação aplicável e da jurisprudência relevante, conclui-se que o artigo 23.º deve ser interpretado à luz do princípio da proporcionalidade, respeitando sempre os direitos fundamentais dos cidadãos. A limitação de direitos prevista nesta norma deve ser utilizada com cautela e rigor, e apenas em situações onde haja uma clara justificação que demonstre a necessidade da restrição.
+
+Recomenda-se que a Comissão Nacional de Proteção de Dados promova a elaboração de orientações adicionais para as entidades públicas, de modo a assegurar uma aplicação uniforme e coerente da referida norma, evitando interpretações divergentes que possam prejudicar a proteção dos dados pessoais.
+
+Este parecer é emitido com caráter vinculativo e deverá ser considerado nas deliberações da Comissão sobre a matéria em apreço.
+
+**[Assinatura]**
+
+Dr. João Silva  
+Chefe do Departamento de Pareceres Técnico-Jurídicos  
+Direção-Geral dos Assuntos Jurídicos  
+Ministério da Justiça
+
+---
+
+Se precisar de alguma outra correção ou ajuste, avise!",documento_783_100.20.001.docx,C:\Users\Francisco Azeredo\Downloads\gerador_documentos_gpt_azure (1)\gerador_documentos_gpt_azure\documentos_gerados\documento_410_100.20.001.docx; C:\Users\Francisco Azeredo\Downloads\gerador_documentos_gpt_azure (1)\gerador_documentos_gpt_azure\documentos_gerados\documento_753_100.10002.docx; C:\Users\Francisco Azeredo\Downloads\gerador_documentos_gpt_azure (1)\gerador_documentos_gpt_azure\documentos_gerados\documento_783_100.20.001.docx,"Documento Gerado #410
+**GOVERNO DA REPÚBLICA PORTUGUESA**  
+**MINISTÉRIO DA JUSTIÇA**  
+**DIRECÇÃO-GERAL DA POLÍTICA DE JUSTIÇA**  
+**DIVISÃO DE PARECERES JURÍDICOS**  
+
+**Data:** 10 de Outubro de 2023  
+**Número do Processo:** MJ/DGPJ/2023/0456  
+
+**ASSUNTO:** Parecer Técnico-Jurídico sobre a Inter...",58.718502100004116,False,True,1.0,0.6428571428571429,0.7777777730246914,1.0,0.8263339400291443,True,True,1.0,0.24157303370786518,0.3744680820628339,1.0,True,2
+"Quais são os pontos principais que devem ser considerados na interpretação da norma técnica NTT-2023/05, conforme a análise do Departamento de Orientações Técnicas?",A interpretação da norma NTT-2023/05 deve considerar os seguintes pontos principais: a obrigação do empregador em promover treinamentos regulares sobre segurança e saúde; a necessidade de avaliação de riscos específica para cada ambiente de trabalho; e a importância da participação dos trabalhadores na identificação de riscos e na formulação de medidas preventivas.,"### Documento Gerado #178
+
+---
+
+**GOVERNO DA REPÚBLICA**  
+**MINISTÉRIO DO TRABALHO E SEGURANÇA SOCIAL**  
+**DIREÇÃO-GERAL DO TRABALHO**
+
+---
+
+#### **DE:** Direção-Geral do Trabalho
+#### **ASSUNTO:** Orientação sobre a interpretação da Norma Técnica N.º 123/2023
+#### **DATA:** 20 de novembro de 2023
+
+---
+
+**INFORMAÇÃO:**
+
+No âmbito da aplicação da Norma Técnica N.º 123/2023, que estabelece diretrizes para a segurança no trabalho em ambientes industriais, foram recebidas diversas solicitações de esclarecimento por parte de entidades empregadoras e trabalhadores acerca da correta interpretação de alguns dos seus artigos.
+
+Considerando a necessidade de uniformização dos entendimentos e a promoção de um ambiente de trabalho seguro, foi deliberado que se procedesse à elaboração de uma orientação específica. Tal orientação visa esclarecer os pontos que têm gerado dúvidas, assim como fornecer diretrizes práticas para a sua aplicação.
+
+A seguir, apresentamos as principais questões abordadas e as orientações correspondentes:
+
+1. **Questão:** Como deve ser implementada a monitorização de atividades em ambientes industriais?
+   - **Orientação:** A monitorização deve ser realizada mediante equipamentos adequados, como câmeras de segurança ou sistemas de detecção de presença, garantindo que os operadores estejam sob controle constante. É necessário manter registros detalhados das atividades e revisar regularmente esses registros para garantir a conformidade.
+
+2. **Questão:** Quais são as responsabilidades do empregador em relação à segurança dos trabalhadores?
+   - **Orientação:** O empregador deve garantir a implementação de todos os procedimentos estabelecidos na norma, incluindo a fornecimento de equipamentos de proteção individual (EPIs), treinamento e sinalização adequada. Além disso, é responsabilidade do empregador verificar periódicamente a conformidade com as normas em vigor.
+
+3. **Questão:** Como deve ser estruturado o plano de emergência no local de trabalho?
+   - **Orientação:** O plano de emergência deve ser elaborado com a participação dos trabalhadores e revisado anualmente. Deve incluir rotas de evacuação, procedimentos de comunicação e localização de equipamentos de primeiros socorros. É importante realizar exercícios periódicos para garantir a eficácia do plano.
+
+4. **Questão:** Como deve ser controlada a exposição aos riscos químicos?
+   - **Orientação:** A exposição aos riscos químicos deve ser minimizada mediante o uso adequado de EPIs, realização regular de testes de contaminação e implementação do sistema de manuseio e armazenamento seguro dos produtos. O empregador deve garantir a disponibilidade de kits de descontaminação e realizar treinamentos específicos sobre manipulação de substâncias químicas.
+
+---
+
+**DESPACHO:**
+
+Após análise das questões apresentadas e das orientações elaboradas, determina-se que as informações sejam publicadas no site oficial da Direção-Geral do Trabalho e enviadas a todas as entidades empregadoras cadastradas. Ademais, recomenda-se que sejam promovidas reuniões periódicas com representantes dos trabalhadores e empregadores para discussão contínua sobre a aplicação da norma.
+
+Este despacho entra em vigor na data de sua publicação.
+
+**Assinam:**
+
+[Silva, João]  
+Diretor-Geral do Trabalho
+
+---
+
+**ANEXO:** Cópia da Norma Técnica N.º 123/2023 e documento com perguntas e respostas frequentes.
+
+---
+
+**FIM DO DOCUMENTO**",documento_497_100.20.400.docx,C:\Users\Francisco Azeredo\Downloads\gerador_documentos_gpt_azure (1)\gerador_documentos_gpt_azure\documentos_gerados\documento_356_100.10.800.docx; C:\Users\Francisco Azeredo\Downloads\gerador_documentos_gpt_azure (1)\gerador_documentos_gpt_azure\documentos_gerados\documento_722_100.20.400.docx; C:\Users\Francisco Azeredo\Downloads\gerador_documentos_gpt_azure (1)\gerador_documentos_gpt_azure\documentos_gerados\documento_177_100.20.400.docx,"Documento Gerado #356
+**MINISTÉRIO DA INFRAESTRUTURA E HABITAÇÃO**  
+**DIREÇÃO-GERAL DE NORMATIVAS E REGULAÇÕES**  
+**AV. DA LIBERDADE, Nº 123, 4º ANDAR**  
+**1000-000 LISBOA**  
+**TELEFONE: (+351) 123 456 789**  
+**EMAIL: normativas@dgnr.gov.pt**  
+
+**LISBOA, 15 DE OUTUBRO DE 2023**  
+
+**DE:** Dire...",60.629273699989426,False,False,0.6428571428571429,0.14772727272727273,0.2580645116493237,0.4117647058823529,0.7064624428749084,False,False,0.45789473684210524,0.16444444444444445,0.2797202761699839,1.0,False,-1
+Qual é o prazo estabelecido para a implementação das orientações referentes ao Decreto-Lei n.º 123/2023?,"As orientações devem ser implementadas até o dia 30 de novembro de 2023, com o objetivo de garantir a plena adequação ao novo regime jurídico.","Com base na informação fornecida, aqui estão as adequações necessárias para que a decisão e o documento sejam formais, corretos e completos:
+
+### Decisão
+
+1. **Referência à Constituição**: Adicione uma referência explícita ao artigo da Constituição que justifica a decisão.
+2. **Entidades Notificadas**: Liste as entidades às quais a decisão deve ser enviada.
+3. **Publicação no Diário da República**: Confirme a publicação para garantir a eficácia legal.
+4. **Arquivo e Registo**: Inclua o anexo com os documentos necessários.
+
+### Projeto de Lei
+
+1. **Contexto Legal**: Adicione detalhes sobre as leis e regulamentos que estão sendo atualizados ou substituídos.
+2. **Objetivos Específicos**: Esclareça objetivamente qual é a finalidade do projeto de lei.
+3. **Procedimento Legislativo**: Inclua os passos seguintes para o projeto, incluindo audições públicas e consulta a entidades competentes.
+
+### Decisão
+
+**Adequações Necessárias:**
+
+---
+
+**Pela Direcção-Geral dos Assuntos Jurídicos,**  
+[Assinatura]  \n[Nome do Responsável]  \n[Cargo do Responsável]  \n[Contactos]
+
+---
+
+**1. Contexto Legal e Legislação Aplicável:** Baseado no artigo [X] da Constituição da República Portuguesa, submete-se a presente decisão para o esclarecimento e implementação do regime jurídico estabelecido pelo Regulamento (UE) 2016/679.
+
+**2. Objetivo:** O objetivo desta decisão é implementar um novo regime de proteção de dados pessoais, garantindo a transparência e responsabilização das entidades que operam neste âmbito, conforme determinado pelo Regulamento (UE) 2016/679.
+
+**3. Procedimento Legislativo:** Determina-se que a presente decisão seja publicada no Diário da República para garantir a devida publicidade e eficácia legal.
+
+**4. Notificação e Arquivo:**
+- **Entidades Notificadas:** 
+  - [Entidade 1]
+  - [Entidade 2]
+  - [Entidade 3]
+
+- **Anexos:**
+  - Cópia do Acórdão n.º 123/2023
+  - Lista de entidades a notificar
+
+**Lisboa, 15 de Outubro de 2023**  
+Assinatura  
+[Nome do Responsável]  
+Director-Geral dos Assuntos Jurídicos  
+Ministério da Justiça  
+
+---
+
+### Projeto de Lei
+
+**Adequações Necessárias:**
+
+---
+
+**INFORMAÇÃO:**  
+Nos termos do artigo 169.º da Constituição da República Portuguesa e do Regime Jurídico da Iniciativa Legislativa, submete-se à apreciação da Assembleia da República o Projeto de Lei n.º 123/2023, que visa estabelecer o regime jurídico aplicável à proteção de dados pessoais, em conformidade com o Regulamento (UE) 2016/679 do Parlamento Europeu e do Conselho, de 27 de abril de 2016.
+
+**Objetivos Específicos:** O projeto tem como objetivo garantir a proteção dos direitos fundamentais dos cidadãos no que respeita ao tratamento de dados pessoais, promovendo a transparência e a responsabilização das entidades que operam neste âmbito.
+
+**Procedimento Legislativo:**  
+- **Consultas e Audições Públicas**: O processo de elaboração deste projeto envolveu consultas a diversas entidades competentes, incluindo a Comissão Nacional de Proteção de Dados, bem como a realização de audições públicas que permitiram a participação da sociedade civil.
+- **Processo Legislativo Subsequente**: Após aprovação pela Assembleia da República, o projeto seguirá para a análise e promulgação pelo Presidente da República.
+
+**ANEXOS:**  
+1. Projeto de Lei n.º 123/2023  
+2. Documento de Fundamentação e Justificação  
+3. Relatório de Consultas e Audições Públicas
+
+---
+
+**Lisboa, 15 de Outubro de 2023**  
+Assinatura  
+[Nome do Responsável]  
+Diretor-Geral da Justiça  
+Ministério da Justiça  
+
+---
+
+Com essas adequações, os documentos ficarão mais claros e formais, assegurando que todas as etapas legais e regulatórias estejam devidamente cobertas.",documento_453_100.20.200.docx,C:\Users\Francisco Azeredo\Downloads\gerador_documentos_gpt_azure (1)\gerador_documentos_gpt_azure\documentos_gerados\documento_735_100.10.003.docx; C:\Users\Francisco Azeredo\Downloads\gerador_documentos_gpt_azure (1)\gerador_documentos_gpt_azure\documentos_gerados\documento_362_100.10.003.docx; C:\Users\Francisco Azeredo\Downloads\gerador_documentos_gpt_azure (1)\gerador_documentos_gpt_azure\documentos_gerados\documento_187_100.10.001.docx,"Documento Gerado #735
+**GOVERNO DA REPÚBLICA**
+
+**DE**: Tribunal Constitucional  
+**ASSUNTO**: Comunicação de Decisão - Declaração de Inconstitucionalidade  
+**DATA**: 15 de outubro de 2023  
+
+---
+
+**À**  
+Ministério da Justiça  
+Direção-Geral da Política de Justiça  
+A/C Sr. Diretor-Geral  
+Rua das...",21.38012339999841,False,False,0.5909090909090909,0.1276595744680851,0.1886792404271984,0.2727272727272727,0.6526470184326172,False,False,0.3482587064676617,0.12595419847328243,0.21782177852062437,0.6666666666666666,False,-1
+Quais foram os tópicos discutidos na reunião realizada em 10 de Outubro de 2023 sobre o Projeto de Urbanização da Rua das Flores?,"Durante a reunião, foram discutidos os seguintes tópicos: 1. A conformidade do projeto com as diretrizes do Plano Diretor Municipal. 2. A viabilidade técnica e financeira da execução das obras propostas. 3. O impacto ambiental e social da intervenção na área em questão.","### Resumo dos Documentos Gerados
+
+#### Documento #433: Aprovação da Ata da Reunião Extraordinária da Comissão de Planejamento Urbano
+
+**Data:** 10 de outubro de 2023  
+**Assunto:** Aprovação da Ata da Reunião Extraordinária da Comissão de Planejamento Urbano
+
+- **Contexto:**
+  - A ata da reunião foi elaborada e revisada pela secretaria da comissão, contendo todos os detalhes mencionados, bem como as deliberações e decisões tomadas.
+  - O documento foi encaminhado para aprovação dos membros da comissão por meio de assinatura eletrônica.
+
+- **Despacho:**
+  - Considerando a relevância dos assuntos tratados e a necessidade de formalizar as decisões, o Secretário Municipal de Administração determina a aprovação da ata.
+  - Solicita que o Departamento de Gestão Documental proceda com a arquivamento da ata aprovada e sua disponibilização no portal de transparência.
+
+- **Assinatura:**
+  - João da Silva, Secretário Municipal de Administração
+
+**Anexo:** Ata da Reunião Extraordinária da Comissão de Planejamento Urbano - 10/10/2023
+
+---
+
+#### Documento #433: Aprovação do Projeto de Urbanização da Área de Requalificação da Praça Central
+
+**Data:** 15 de setembro de 2023  
+**Assunto:** Aprovação do Projeto de Urbanização da Área de Requalificação da Praça Central
+
+- **Contexto:**
+  - O Departamento de Planeamento Urbano avaliou o projeto apresentado pela empresa Construtora Exemplo, Lda., conforme protocolo nº 456/2023.
+  - A análise considerou os normativos legais em vigor e as orientações do Plano Diretor Municipal.
+
+- **Resultados:**
+  - O projeto está em conformidade com os requisitos estabelecidos.
+  - Visa revitalizar o espaço público, promovendo acessibilidade, sustentabilidade ambiental e aumento da qualidade de vida dos cidadãos.
+  - Reuniões com a comunidade local discutiram as potencialidades e preocupações associadas ao projeto. Sugestões foram integradas para reforçar compromisso com a participação cidadã.
+
+- **Despacho:**
+  - O Diretor do Departamento de Planeamento Urbano determina a aprovação do Projeto de Urbanização da Área de Requalificação da Praça Central, submetendo-o à Câmara Municipal para ratificação em reunião ordinária no dia 20 de setembro de 2023.
+
+- **Assinatura:**
+  - João Silva, Diretor do Departamento de Planeamento Urbano
+
+**Anexos:**
+1. Projeto de Urbanização
+2. Estudo de Impacto Ambiental
+3. Relatório de Reuniões com a Comunidade",documento_19_100.APR.asdf.docx,C:\Users\Francisco Azeredo\Downloads\gerador_documentos_gpt_azure (1)\gerador_documentos_gpt_azure\documentos_gerados\documento_271_100.10.04.docx; C:\Users\Francisco Azeredo\Downloads\gerador_documentos_gpt_azure (1)\gerador_documentos_gpt_azure\documentos_gerados\documento_395_100.APR.docx; C:\Users\Francisco Azeredo\Downloads\gerador_documentos_gpt_azure (1)\gerador_documentos_gpt_azure\documentos_gerados\documento_433_100.10.04.docx,"Documento Gerado #271
+**GOVERNO MUNICIPAL DE EXEMPLO**  
+**DEPARTAMENTO DE PLANEAMENTO URBANO**  
+**AV. DA CIDADE, Nº 100**  
+**CÓDIGO POSTAL 1234-567**  
+**TELEFONE: 21 123 45 67**  
+**EMAIL: planeamento@exemplo.pt**  
+
+---
+
+**DATA:** 15 de outubro de 2023  
+**ASSUNTO:** Aprovação de Projeto de Rea...",26.188785599995754,False,False,0.5789473684210527,0.2,0.3272727231471075,0.6,0.7009899616241455,False,False,0.5,0.2222222222222222,0.3563636321205951,1.0,False,-1
+Qual é a data em que Portugal solicitou parecer ao Ministério dos Negócios Estrangeiros sobre a ratificação da Convenção Internacional sobre a Proteção dos Direitos dos Trabalhadores Migrantes e das suas Famílias?,A data em que Portugal solicitou parecer ao Ministério dos Negócios Estrangeiros sobre a ratificação da convenção foi 15 de Outubro de 2023.,"### Aviso de Depósito do Instrumento de Ratificação
+
+---
+
+**GOVERNO DA REPÚBLICA PORTUGUESA**  
+**MINISTÉRIO DOS NEGÓCIOS ESTRANGEIROS**  
+**DIREÇÃO-GERAL DOS ASSUNTOS INTERNACIONAIS**
+
+**DE:** Direção-Geral dos Assuntos Internacionais  
+**A:** Entidade designada para o depósito do instrumento de ratificação  
+**ASSUNTO:** Aviso de Depósito do Instrumento de Ratificação da Convenção sobre a Proteção dos Direitos dos Trabalhadores Migrantes e Membros das suas Famílias  
+**DATA:** 15 de Outubro de 2023  
+
+---
+
+### VISTO O:
+
+- Parecer do Ministério dos Negócios Estrangeiros (Ministério que elaborou o parecer)
+- Projeto de Resolução para aprovação parlamentar
+- Minuta do aviso de depósito do instrumento de ratificação
+
+---
+
+**AVISO**
+
+A Direção-Geral dos Assuntos Internacionais, no âmbito das suas competências, vem por este meio informar que o Governo da República Portuguesa procedeu à ratificação da Convenção sobre a Proteção dos Direitos dos Trabalhadores Migrantes e Membros das suas Famílias, adotada na Organização das Nações Unidas em 18 de Dezembro de 1990.
+
+Com base no artigo 26º do Protocolo Facultativo à Convenção da ONU sobre os Direitos Civis e Políticos (art. 37 do Protocolo), o presente instrumento de ratificação será depositado junto da Entidade designada, cujo nome e endereço se encontram na documentação enviada.
+
+---
+
+**DESPACHO**
+
+Solicito que se mantenham todos os trâmites de acompanhamento e que sejam reportadas quaisquer atualizações ou questões relacionadas com este processo. 
+
+Com os melhores cumprimentos,
+
+**Assinatura Digital**  
+João da Silva  
+Director-Geral dos Assuntos Internacionais  
+Ministério dos Negócios Estrangeiros
+
+---
+
+### ANEXOS:
+
+1. Parecer do Ministério dos Negócios Estrangeiros
+2. Projeto de Resolução para aprovação parlamentar
+3. Minuta do aviso de depósito do instrumento de ratificação
+
+---",documento_376_100.10002.docx,C:\Users\Francisco Azeredo\Downloads\gerador_documentos_gpt_azure (1)\gerador_documentos_gpt_azure\documentos_gerados\documento_843_100.10002.docx; C:\Users\Francisco Azeredo\Downloads\gerador_documentos_gpt_azure (1)\gerador_documentos_gpt_azure\documentos_gerados\documento_900_100.10002.docx; C:\Users\Francisco Azeredo\Downloads\gerador_documentos_gpt_azure (1)\gerador_documentos_gpt_azure\documentos_gerados\documento_137_100.10002.docx,"Documento Gerado #843
+**Ministério dos Negócios Estrangeiros**  
+**Direção-Geral de Assuntos Políticos e de Segurança**  
+**Rua de São Bento, 199**  
+**1249-070 Lisboa**  
+**Tel: +351 21 123 4567**  
+**Email: dgas@mae.gov.pt**  
+
+---
+
+**DE**: Direção-Geral de Assuntos Políticos e de Segurança  
+**A*...",21.778133300002082,False,False,0.8095238095238095,0.21739130434782608,0.27586206530321045,0.7142857142857143,0.6121962666511536,False,False,0.525,0.21256038647342995,0.3533834547685002,1.0,False,-1
