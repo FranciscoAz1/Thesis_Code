@@ -1,0 +1,302 @@
+{
+  "chunk-12c72c5fc3995c6b525962c042480bad": {
+    "tokens": 73,
+    "content": "Li Hua talks to Jennifer Moore about her progress as a personal trainer. The pair discuss how they have been able to transform their lives through dedication and hard work. Li Hua: I'm feeling great about the journey ahead. Let’s keep pushing. Let's crush it. Click here to watch the full interview. The full interview with Li Hua is available on iReport.com.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-8b78dad33a42bc7933755eccb74875d2",
+    "metadata": {
+      "id": "doc_0",
+      "source": "C:\\Users\\Francisco Azeredo\\OneDrive\\Documents\\tecnico\\5 ano\\tese\\Código\\MiniRAG\\dataset\\LiHua-World\\data\\LiHuaWorld\\LiHua-World\\week25\\20260623_1015.txt"
+    }
+  },
+  "chunk-b6c3ed6863a2bca62ac89a4af7311897": {
+    "tokens": 93,
+    "content": "Time: 20260805_16:00 LiHua: Hey man. Just a quick reminder that we are going to the photography exhibition at 19:00 tonight. WolfgangSchulz: Of course, not gonna forget about that. LiH Hua: Sounds good. Let’s grab a bite before the event. What do you feel like eating. Wolfgang Schulz: How about we hit that new burger place. Heard their fries are awesome too.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-68b13480ea1b74f8768581cae0d17cbc",
+    "metadata": {
+      "id": "doc_1",
+      "source": "C:\\Users\\Francisco Azeredo\\OneDrive\\Documents\\tecnico\\5 ano\\tese\\Código\\MiniRAG\\dataset\\LiHua-World\\data\\LiHuaWorld\\LiHua-World\\week31\\20260805_1600.txt"
+    }
+  },
+  "chunk-585116cf908b9ce2ea5042cd25585dac": {
+    "tokens": 79,
+    "content": "AdamSmith calls Li Hua to discuss the warranty and maintenance plans for the air conditioner. LiHua: Seems decent overall. Got a couple of questions though. When’s a good time to chat about it. AdamSmith: How about after dinner. I should be free then. Just let me know what works for you. LiH Hua: Sounds good. I'll ping you around 8.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-5cb5b75e5b5a346a58a1c8c2474d0a4a",
+    "metadata": {
+      "id": "doc_2",
+      "source": "C:\\Users\\Francisco Azeredo\\OneDrive\\Documents\\tecnico\\5 ano\\tese\\Código\\MiniRAG\\dataset\\LiHua-World\\data\\LiHuaWorld\\LiHua-World\\week32\\20260810_1800.txt"
+    }
+  },
+  "chunk-d500e7c91916d681d4b9bb4bc55552ed": {
+    "tokens": 90,
+    "content": "ThaneChambers: Black Myth: Wukong has an amazing soundtrack that adds to its epic storytelling. Games like \"The Last of Us\" and \"God of War\" also do an incredible job with their soundtracks. The music in \"Journey\" is a whole vibe on its own. The way it evolves with your exploration perfectly captures the emotions of the game. Are there any other games where the music complemented the gameplay so well.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-e7e1442c7dd2de3345678c4a1be7deba",
+    "metadata": {
+      "id": "doc_3",
+      "source": "C:\\Users\\Francisco Azeredo\\OneDrive\\Documents\\tecnico\\5 ano\\tese\\Código\\MiniRAG\\dataset\\LiHua-World\\data\\LiHuaWorld\\LiHua-World\\week45\\20261115_1500.txt"
+    }
+  },
+  "chunk-3ff470d7ecc81338e1e8d50c10cf3cc7": {
+    "tokens": 91,
+    "content": "Time: 20261106_20:00 JakeWatson: Hey Li Hua. 🎉 Ready to hit the field this weekend. I've set up a practice session focusing on shooting. It'll be fun, and I'll help you get the hang of it. What do you say. Let’s get some goals. LiHua: Sounds like a blast. Just let me know the time and place. Can't wait to improve my shooting skills with you.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-f83c2db10795f4aac1c41599adf0a127",
+    "metadata": {
+      "id": "doc_4",
+      "source": "C:\\Users\\Francisco Azeredo\\OneDrive\\Documents\\tecnico\\5 ano\\tese\\Código\\MiniRAG\\dataset\\LiHua-World\\data\\LiHuaWorld\\LiHua-World\\week44\\20261106_2000.txt"
+    }
+  },
+  "chunk-8df4ed6d4828189ce02fe604233805c0": {
+    "tokens": 80,
+    "content": "YurikoYamamoto: How about we play some gentle tunes this week. LiHua: That sounds like a great idea, Yuriko. I'm all in for some chill vibes. ChaeSong-hwa: I'm down for that. Maybe we could do something like \"Landslide\" or \"Blackbird\" again, they're so soothing. Let me know what you all think.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-25949b1be91fdd89af34675367889766",
+    "metadata": {
+      "id": "doc_5",
+      "source": "C:\\Users\\Francisco Azeredo\\OneDrive\\Documents\\tecnico\\5 ano\\tese\\Código\\MiniRAG\\dataset\\LiHua-World\\data\\LiHuaWorld\\LiHua-World\\week18\\20260509_1830.txt"
+    }
+  },
+  "chunk-c8421b2579f568ea935ceb97b6680b84": {
+    "tokens": 74,
+    "content": "Time: 20260718_18:00 WolfgangSchulz: Hey man. Check out this awesome guitar I found online. A bit pricey, but I thought you might like it. LiHua: Wow, that looks amazing. 😍 I love the design. I'll have to save up a bit for that, but it could totally be worth it.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-a20ef9c90c581f8ce8da5881198cf498",
+    "metadata": {
+      "id": "doc_6",
+      "source": "C:\\Users\\Francisco Azeredo\\OneDrive\\Documents\\tecnico\\5 ano\\tese\\Código\\MiniRAG\\dataset\\LiHua-World\\data\\LiHuaWorld\\LiHua-World\\week28\\20260718_1800.txt"
+    }
+  },
+  "chunk-ddab407f007042a09a050cb518653859": {
+    "tokens": 68,
+    "content": "AdamSmith calls Li Hua to tell her he's booked the curtain in the right size. It should arrive by the end of the weekend. LiHua: That sounds great. Thanks for taking care of that. Looking forward to seeing it. AdamSmith: No problem. I'm glad to help. Let me know if you need anything else.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-28a8002785187562062f9468957eee61",
+    "metadata": {
+      "id": "doc_7",
+      "source": "C:\\Users\\Francisco Azeredo\\OneDrive\\Documents\\tecnico\\5 ano\\tese\\Código\\MiniRAG\\dataset\\LiHua-World\\data\\LiHuaWorld\\LiHua-World\\week40\\20261007_1200.txt"
+    }
+  },
+  "chunk-2645aa0cd8ff886506ca992f07f354ec": {
+    "tokens": 81,
+    "content": "Having a good breakfast is really good for our health. What are some healthy breakfast options in your opinion. WolfgangSchulz: Thinking about trying some avocado toast or oatmeal. LiHua: Avocado toast sounds awesome. You could add some eggs on top for extra protein. What do you usually like for breakfast. Wolfgang Schulz: I usually go for something quick, like yogurt or a smoothie.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-00fa03493d7030d4bc825aede0beae58",
+    "metadata": {
+      "id": "doc_8",
+      "source": "C:\\Users\\Francisco Azeredo\\OneDrive\\Documents\\tecnico\\5 ano\\tese\\Código\\MiniRAG\\dataset\\LiHua-World\\data\\LiHuaWorld\\LiHua-World\\week49\\20261209_1900.txt"
+    }
+  },
+  "chunk-6f7c0870290820c9cb4a4403f416e9a7": {
+    "tokens": 84,
+    "content": "Hailey Johnson is hosting a free baking class this weekend. Li Hua will teach you how to make pastries. There are no dietary restrictions here, I'm all set. Can't wait to bake with you, Li Hua. See you this weekend. Hailey Johnson. Time: 20260618_11:30. LiHua: Yes, for sure. Do you have any dietary restrictions I should keep in mind.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-86b91a781aaee4aec8ceee5f086856f3",
+    "metadata": {
+      "id": "doc_9",
+      "source": "C:\\Users\\Francisco Azeredo\\OneDrive\\Documents\\tecnico\\5 ano\\tese\\Código\\MiniRAG\\dataset\\LiHua-World\\data\\LiHuaWorld\\LiHua-World\\week24\\20260618_1130.txt"
+    }
+  },
+  "chunk-8d88305b1764d3b122d0af2b20e850b8": {
+    "tokens": 71,
+    "content": "WolfgangSchulz and LiHua plan to meet earlier than usual to go over some new songs. \"Sweet Home Alabama\" is a must. Yuriko can pick a bass-heavy track too. I’ve been eager to work on some new material. Can't wait for Sunday. WolfgangSchulz: Let’s finalize our list before Sunday then.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-cb1169c5aefd74021c8e93cdf66d9221",
+    "metadata": {
+      "id": "doc_10",
+      "source": "C:\\Users\\Francisco Azeredo\\OneDrive\\Documents\\tecnico\\5 ano\\tese\\Código\\MiniRAG\\dataset\\LiHua-World\\data\\LiHuaWorld\\LiHua-World\\week24\\20260617_1700.txt"
+    }
+  },
+  "chunk-2c861c2f2ad64449b4de7fd91f033c6f": {
+    "tokens": 83,
+    "content": "Breathing during squats is super important. Try to inhale as you go down and exhale when you come up. Don't forget to engage your core for better support. Jett: When I feel discomfort in my knees, I focus on my form and make sure my knees are tracking over my toes. Omen: I’ve been adding some dynamic stretches to my routine to warm up the muscles and limits strain.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-c283e17589a754bb347cf3e7bd8b857d",
+    "metadata": {
+      "id": "doc_11",
+      "source": "C:\\Users\\Francisco Azeredo\\OneDrive\\Documents\\tecnico\\5 ano\\tese\\Código\\MiniRAG\\dataset\\LiHua-World\\data\\LiHuaWorld\\LiHua-World\\week17\\20260428_1700.txt"
+    }
+  },
+  "chunk-df32b78370d819656e21de76852d24b9": {
+    "tokens": 76,
+    "content": "Time: 20260317_15:30 LiHua: Hey Yuriko. I can show you the final website this Thursday at 3pm if that works for you. How about we meet at Central Perk café. Looking forward to your feedback. YurikaYamamoto: That sounds great. I’ll be there. Excited to see the final result.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-4c79c70ad719166c0813db6f68ba8dfd",
+    "metadata": {
+      "id": "doc_12",
+      "source": "C:\\Users\\Francisco Azeredo\\OneDrive\\Documents\\tecnico\\5 ano\\tese\\Código\\MiniRAG\\dataset\\LiHua-World\\data\\LiHuaWorld\\LiHua-World\\week11\\20260317_1530.txt"
+    }
+  },
+  "chunk-02803a6db45c374c7fa1c2d6a3092b3a": {
+    "tokens": 75,
+    "content": "Adam Smith checks in with Li Hua to see how the basement is doing after the storm. The basement is all good, no water leakage at all. Just a bit damp, but nothing major. If you need anything or decide to use the basement for storage, just let me know. If I need anything, I’ll definitely reach out. Hope you have a great day.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-addb66bd145b4c2c70d4a7c635fa9551",
+    "metadata": {
+      "id": "doc_13",
+      "source": "C:\\Users\\Francisco Azeredo\\OneDrive\\Documents\\tecnico\\5 ano\\tese\\Código\\MiniRAG\\dataset\\LiHua-World\\data\\LiHuaWorld\\LiHua-World\\week36\\20260907_1400.txt"
+    }
+  },
+  "chunk-dc209f0befa5a3a5d3f8b4899927a3cc": {
+    "tokens": 76,
+    "content": "Caspian: If anyone’s looking to practice, maybe we can get together this weekend. I’m thinking Saturday afternoon, and we could work on our passing skills. What do you all think. Henley: I'm down for Saturday, but how about 3 PM. That way we have enough time to practice before it gets dark. Let's really focus on those short passes.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-c8d89524d032cc07376064809227e195",
+    "metadata": {
+      "id": "doc_14",
+      "source": "C:\\Users\\Francisco Azeredo\\OneDrive\\Documents\\tecnico\\5 ano\\tese\\Código\\MiniRAG\\dataset\\LiHua-World\\data\\LiHuaWorld\\LiHua-World\\week39\\20261001_1800.txt"
+    }
+  },
+  "chunk-9f1ec9662f7dbd65816596eb5b263e51": {
+    "tokens": 71,
+    "content": "Time: 20260615_09:00 JenniferMoore: Hey Li Hua. Hope you’re doing well. Would it be possible to push our session tomorrow to 10:30am instead of 10:00am. Let me know. LiHua: Sure, 10: 30am works for me. See you then.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-d8d71bca6bcbcda860e80d60d5d35a1d",
+    "metadata": {
+      "id": "doc_15",
+      "source": "C:\\Users\\Francisco Azeredo\\OneDrive\\Documents\\tecnico\\5 ano\\tese\\Código\\MiniRAG\\dataset\\LiHua-World\\data\\LiHuaWorld\\LiHua-World\\week24\\20260615_0900.txt"
+    }
+  },
+  "chunk-c89062516da46f55e6c55bb657f331d9": {
+    "tokens": 77,
+    "content": "Li Hua talks about pushing her limits with the planks this week. \"I feel like I'm getting stronger each week,\" she says. \"Remember to stay hydrated and rest up,\" she adds. \"See you Tuesday,\" Li Hua says, adding that she'll make sure to take care of herself. \"You're totally on the right track. It's all about consistency and keeping that mindset strong\".",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-c4bac505a7a4784fc1b688e2b8871c66",
+    "metadata": {
+      "id": "doc_16",
+      "source": "C:\\Users\\Francisco Azeredo\\OneDrive\\Documents\\tecnico\\5 ano\\tese\\Código\\MiniRAG\\dataset\\LiHua-World\\data\\LiHuaWorld\\LiHua-World\\week42\\20261022_2200.txt"
+    }
+  },
+  "chunk-f4cb16ceaefbd1e0110778def096da05": {
+    "tokens": 41,
+    "content": "Time: 20260516_08:14 Alice: I am Alice from Hailey's bakery. Your bread has been delivered, please come and pick it up ASAP. Have a good day : ).",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-fe507a84af004f6890da1d09c0cd6ba6",
+    "metadata": {
+      "id": "doc_17",
+      "source": "C:\\Users\\Francisco Azeredo\\OneDrive\\Documents\\tecnico\\5 ano\\tese\\Código\\MiniRAG\\dataset\\LiHua-World\\data\\LiHuaWorld\\LiHua-World\\bakery_deliver\\20260516.txt"
+    }
+  },
+  "chunk-232a6cfa94f75b5b3ea2f24533c301fc": {
+    "tokens": 74,
+    "content": "This weekend, we’re hosting a free baking class at the bakery. You can just walk in and join. Hope to see you there. LiHua: That sounds awesome. I’m definitely gonna check it out this weekend. Can’t miss free baking. HaileyJohnson: It's going to be a blast. I'm really looking forward to it. See you soon.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-afd4cf6e494381b30bf09739eae250b7",
+    "metadata": {
+      "id": "doc_18",
+      "source": "C:\\Users\\Francisco Azeredo\\OneDrive\\Documents\\tecnico\\5 ano\\tese\\Código\\MiniRAG\\dataset\\LiHua-World\\data\\LiHuaWorld\\LiHua-World\\week21\\20260527_1600.txt"
+    }
+  },
+  "chunk-8a3a8dd681903ebee47fa145c1c3114b": {
+    "tokens": 79,
+    "content": "ChaeSong-hwa and LiHua discuss how to fall asleep faster at night. Sleep is so important for us, especially with our busy schedules. Maybe we can plan a chill night soon, just unwind a bit. What do you think. Let me know if you want more tips or articles like this.LiHua: For sure. Sleep is crucial for recovery after long days.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-c13f597cc7d58f32274ed3bba87c5f2f",
+    "metadata": {
+      "id": "doc_19",
+      "source": "C:\\Users\\Francisco Azeredo\\OneDrive\\Documents\\tecnico\\5 ano\\tese\\Código\\MiniRAG\\dataset\\LiHua-World\\data\\LiHuaWorld\\LiHua-World\\week27\\20260711_1100.txt"
+    }
+  },
+  "chunk-e0b7a59146b533c3efbaa1e25e6f5264": {
+    "tokens": 41,
+    "content": "Time: 20260422_08:21 Alice: I am Alice from Hailey's bakery. Your bread has been delivered, please come and pick it up ASAP. Have a good day : ).",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-51500f527ced6ced90102d7eac6e1375",
+    "metadata": {
+      "id": "doc_20",
+      "source": "C:\\Users\\Francisco Azeredo\\OneDrive\\Documents\\tecnico\\5 ano\\tese\\Código\\MiniRAG\\dataset\\LiHua-World\\data\\LiHuaWorld\\LiHua-World\\bakery_deliver\\20260422.txt"
+    }
+  },
+  "chunk-3049f5bd86ab2e414ce8e1672296fb22": {
+    "tokens": 88,
+    "content": "Time: 20261019_20:00 AdamSmith: Hey, Li Hua. Just wondering if the curtains are still all good now that you have been using them for a while. LiHua: They are perfect. I'm more than satisfied. If you need anything else or have any questions about it, just let me know. Also, if you ever want to use that basement for extra storage, it's ready when you are.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-e22918849bd19caf74c561efbf6a615e",
+    "metadata": {
+      "id": "doc_21",
+      "source": "C:\\Users\\Francisco Azeredo\\OneDrive\\Documents\\tecnico\\5 ano\\tese\\Código\\MiniRAG\\dataset\\LiHua-World\\data\\LiHuaWorld\\LiHua-World\\week42\\20261019_2000.txt"
+    }
+  },
+  "chunk-89219a25cb4c6553a14546f345116d25": {
+    "tokens": 80,
+    "content": "Turalyon: The children's play area is now complete. Do you have any ideas for features we could add to make the garden even better. Let me know. GromHellscream: Maybe we could create a little garden area where kids can help plant flowers or vegetables. ArthasMenethil: Great to see everyone so enthusiastic. Let's continue brainstorming and refining our ideas for the garden.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-9a5e3991bf8576ca2b09c937e3017f03",
+    "metadata": {
+      "id": "doc_22",
+      "source": "C:\\Users\\Francisco Azeredo\\OneDrive\\Documents\\tecnico\\5 ano\\tese\\Código\\MiniRAG\\dataset\\LiHua-World\\data\\LiHuaWorld\\LiHua-World\\week23\\20260612_1500.txt"
+    }
+  },
+  "chunk-f2cf48ed3143c750de3ab2fcd66a00d7": {
+    "tokens": 86,
+    "content": "Time: 20260309_12:00 LiHua: Hey Jennifer. Hope you’re doing well. Quick question, is it possible to switch my class from Thursday to Friday this week. Let me know. I'm doing great, thanks. 😊 Yes, we can definitely switch your class to Friday. What time works best for you. How about the same time, 10:00am. Looking forward to it.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-608802d26630444a57c3070cc7f581a2",
+    "metadata": {
+      "id": "doc_23",
+      "source": "C:\\Users\\Francisco Azeredo\\OneDrive\\Documents\\tecnico\\5 ano\\tese\\Código\\MiniRAG\\dataset\\LiHua-World\\data\\LiHuaWorld\\LiHua-World\\week10\\20260309_1200.txt"
+    }
+  },
+  "chunk-d5cbd4d17af47c48f18d20c907ad334d": {
+    "tokens": 70,
+    "content": "There's a community bake sale this Sunday at 3 PM to support a local charity. Let me know if you’re interested. LiHua: That sounds fun. I’d love to help out and enjoy some baked goodies. Count me in. AdamSmith: Awesome. It'll be a nice way to meet some neighbors too. Looking forward to it.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-182889c8ae3097757853b5e162ce93b9",
+    "metadata": {
+      "id": "doc_24",
+      "source": "C:\\Users\\Francisco Azeredo\\OneDrive\\Documents\\tecnico\\5 ano\\tese\\Código\\MiniRAG\\dataset\\LiHua-World\\data\\LiHuaWorld\\LiHua-World\\week10\\20260312_1230.txt"
+    }
+  },
+  "chunk-bbcb43d73dfdfb257991e58636dd6b92": {
+    "tokens": 76,
+    "content": "Community sports day will take place in the community garden. The community is looking forward to the event. Participants are sharing their thoughts on what activities they would like to see. There will be refreshments and a schedule for all the activities during the sports day. The event will be held in the garden at 20260727_16:30 local time (GMT-8:30).",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-6c184b01d5f088d78af9427b7f7f2db0",
+    "metadata": {
+      "id": "doc_25",
+      "source": "C:\\Users\\Francisco Azeredo\\OneDrive\\Documents\\tecnico\\5 ano\\tese\\Código\\MiniRAG\\dataset\\LiHua-World\\data\\LiHuaWorld\\LiHua-World\\week30\\20260727_1630.txt"
+    }
+  },
+  "chunk-7d436188aea9ab241c4fb769abafc2bb": {
+    "tokens": 77,
+    "content": "ChaeSong-hwa: Check out this article about how human beings form short-term and long-term memories. LiHua: Wow, I just read it, and I'm really shocked how intricate our brains are. Understanding memory can really help in so many fields, especially in therapy and education. Plus, it’s nice to know that we can improve our memory over time with practice.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-6744be8aacbb5dc28b515dfc31c967a9",
+    "metadata": {
+      "id": "doc_26",
+      "source": "C:\\Users\\Francisco Azeredo\\OneDrive\\Documents\\tecnico\\5 ano\\tese\\Código\\MiniRAG\\dataset\\LiHua-World\\data\\LiHuaWorld\\LiHua-World\\week50\\20261218_1800.txt"
+    }
+  },
+  "chunk-62f12c58286841db4eb044774a2a3242": {
+    "tokens": 83,
+    "content": "WolfgangSchulz and LiHua will be playing a jam session on Sunday. The pair are looking forward to mixing things up with some new songs. A bit of nostalgia with some fresh tunes sounds perfect. Just hang in there until then. Just a few more days. Let’s make it a good one. It's nice to have something to look forward to after all this work. Let's make it memorable.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-ddb0d87b57363b2cb71ea4828e32aa9a",
+    "metadata": {
+      "id": "doc_27",
+      "source": "C:\\Users\\Francisco Azeredo\\OneDrive\\Documents\\tecnico\\5 ano\\tese\\Código\\MiniRAG\\dataset\\LiHua-World\\data\\LiHuaWorld\\LiHua-World\\week14\\20260408_1300.txt"
+    }
+  },
+  "chunk-cede39689bcb11c533bbcb14b963d466": {
+    "tokens": 81,
+    "content": "WolfgangSchulz and LiHua plan to watch \"Overwatch 3\" tomorrow night. The pair plan to go out for food before the show. They will be at a new burger place near the cinema. The show will be shown at 7 PM. For more information, visit www.twitch.com/wolfgangschulz and @wolfgang_schulz on Twitter.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-48961762ef4c121df3fa16dd2b43f4bf",
+    "metadata": {
+      "id": "doc_28",
+      "source": "C:\\Users\\Francisco Azeredo\\OneDrive\\Documents\\tecnico\\5 ano\\tese\\Código\\MiniRAG\\dataset\\LiHua-World\\data\\LiHuaWorld\\LiHua-World\\week3\\20260121_1300.txt"
+    }
+  },
+  "chunk-2a4d0decb6cd8dbb564f1019cb3742cd": {
+    "tokens": 75,
+    "content": "Thane Chambers and Li Hua talk about their gaming plans for the weekend. Li Hua is planning a gaming marathon. Thane Chambers is thinking of hosting a game night with some friends. They're thinking of mixing it up with some classics like \"Rocket League\" and maybe \"Overcooked\" Li Hua: I'd love to join in. Just let me know when and where.",
+    "chunk_order_index": 0,
+    "full_doc_id": "doc-1844cbf15e87a346bac192889cc96d4a",
+    "metadata": {
+      "id": "doc_29",
+      "source": "C:\\Users\\Francisco Azeredo\\OneDrive\\Documents\\tecnico\\5 ano\\tese\\Código\\MiniRAG\\dataset\\LiHua-World\\data\\LiHuaWorld\\LiHua-World\\week47\\20261124_1400.txt"
+    }
+  }
+}

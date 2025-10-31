@@ -1,0 +1,233 @@
+[INFO] MCP-Server: Starting Weaviate MCP Server v0.1.0
+[INFO] MCP-Server: Configuration: host=host.docker.internal:8080, scheme=http, transport=stdio, read-only=false
+[INFO] MCP-Server: Initializing Weaviate connection...
+[INFO] MCP-Server: Connecting to Weaviate at http://host.docker.internal:8080
+[ERROR] MCP-Server: Failed to connect to Weaviate: weaviate did not start up in 1s. Either the Weaviate URL "http://host.docker.internal:8080/v1" is wrong or Weaviate did not start up in the interval given in 'startupTimeout'
+[ERROR] MCP-Server: Failed to create MCP server: failed to create Weaviate connection: connect to weaviate: weaviate did not start up in 1s. Either the Weaviate URL "http://host.docker.internal:8080/v1" is wrong or Weaviate did not start up in the interval given in 'startupTimeout'
+[INFO] MCP-Server: Starting Weaviate MCP Server v0.1.0
+[INFO] MCP-Server: Configuration: host=host.docker.internal:8080, scheme=http, transport=stdio, read-only=false
+[INFO] MCP-Server: Initializing Weaviate connection...
+[INFO] MCP-Server: Connecting to Weaviate at http://host.docker.internal:8080
+[ERROR] MCP-Server: Failed to connect to Weaviate: weaviate did not start up in 1s. Either the Weaviate URL "http://host.docker.internal:8080/v1" is wrong or Weaviate did not start up in the interval given in 'startupTimeout'
+[ERROR] MCP-Server: Failed to create MCP server: failed to create Weaviate connection: connect to weaviate: weaviate did not start up in 1s. Either the Weaviate URL "http://host.docker.internal:8080/v1" is wrong or Weaviate did not start up in the interval given in 'startupTimeout'
+[INFO] MCP-Server: Starting Weaviate MCP Server v0.1.0
+[INFO] MCP-Server: Configuration: host=host.docker.internal:8080, scheme=http, transport=stdio, read-only=false
+[INFO] MCP-Server: Initializing Weaviate connection...
+[INFO] MCP-Server: Connecting to Weaviate at http://host.docker.internal:8080
+[INFO] MCP-Server: Successfully connected to Weaviate
+[INFO] MCP-Server: Registering tools...
+[DEBUG] MCP-Server: weaviate-query schema before modification:
+{
+  "type": "object",
+  "properties": {
+    "collection": {
+      "description": "Name of the target collection",
+      "type": "string"
+    },
+    "limit": {
+      "default": 3,
+      "description": "Maximum number of results to return (default: 3)",
+      "type": "number"
+    },
+    "query": {
+      "description": "Query data within Weaviate",
+      "type": "string"
+    },
+    "targetProperties": {
+      "description": "Properties to return with the query. Check available properties via weaviate://schema/{collection} resources",
+      "type": "array"
+    }
+  },
+  "required": [
+    "query",
+    "collection",
+    "targetProperties"
+  ]
+}
+[DEBUG] MCP-Server: weaviate-query schema after modification:
+{
+  "type": "object",
+  "properties": {
+    "collection": {
+      "description": "Name of the target collection",
+      "type": "string"
+    },
+    "limit": {
+      "default": 3,
+      "description": "Maximum number of results to return (default: 3)",
+      "type": "number"
+    },
+    "query": {
+      "description": "Query data within Weaviate",
+      "type": "string"
+    },
+    "targetProperties": {
+      "description": "Properties to return with the query. Check available properties via weaviate://schema/{collection} resources",
+      "items": {
+        "type": "string"
+      },
+      "minItems": 1,
+      "type": "array"
+    }
+  },
+  "required": [
+    "query",
+    "collection",
+    "targetProperties"
+  ]
+}
+[INFO] MCP-Server: Registered tool: weaviate-query
+[INFO] MCP-Server: Registering resources...
+[INFO] MCP-Server: Registered 3 resources
+[INFO] MCP-Server: MCP Server initialized successfully
+[INFO] MCP-Server: Starting server with stdio transport
+[INFO] MCP-Server: Starting stdio server...
+[INFO] MCP-Server: Shutting down server...
+[INFO] MCP-Server: Starting Weaviate MCP Server v0.1.0
+[INFO] MCP-Server: Configuration: host=host.docker.internal:8080, scheme=http, transport=http, read-only=false
+[INFO] MCP-Server: Initializing Weaviate connection...
+[INFO] MCP-Server: Connecting to Weaviate at http://host.docker.internal:8080
+[INFO] MCP-Server: Successfully connected to Weaviate
+[INFO] MCP-Server: Registering tools...
+[DEBUG] MCP-Server: weaviate-query schema before modification:
+{
+  "type": "object",
+  "properties": {
+    "collection": {
+      "description": "Name of the target collection",
+      "type": "string"
+    },
+    "limit": {
+      "default": 3,
+      "description": "Maximum number of results to return (default: 3)",
+      "type": "number"
+    },
+    "query": {
+      "description": "Query data within Weaviate",
+      "type": "string"
+    },
+    "targetProperties": {
+      "description": "Properties to return with the query. Check available properties via weaviate://schema/{collection} resources",
+      "type": "array"
+    }
+  },
+  "required": [
+    "query",
+    "collection",
+    "targetProperties"
+  ]
+}
+[DEBUG] MCP-Server: weaviate-query schema after modification:
+{
+  "type": "object",
+  "properties": {
+    "collection": {
+      "description": "Name of the target collection",
+      "type": "string"
+    },
+    "limit": {
+      "default": 3,
+      "description": "Maximum number of results to return (default: 3)",
+      "type": "number"
+    },
+    "query": {
+      "description": "Query data within Weaviate",
+      "type": "string"
+    },
+    "targetProperties": {
+      "description": "Properties to return with the query. Check available properties via weaviate://schema/{collection} resources",
+      "items": {
+        "type": "string"
+      },
+      "minItems": 1,
+      "type": "array"
+    }
+  },
+  "required": [
+    "query",
+    "collection",
+    "targetProperties"
+  ]
+}
+[INFO] MCP-Server: Registered tool: weaviate-query
+[INFO] MCP-Server: Registering resources...
+[INFO] MCP-Server: Registered 3 resources
+[INFO] MCP-Server: MCP Server initialized successfully
+[INFO] MCP-Server: Starting server with HTTP transport on 127.0.0.1:3000
+[INFO] MCP-Server: Starting HTTP server on 127.0.0.1:3000
+[INFO] MCP-Server: HTTP server listening on 127.0.0.1:3000
+[INFO] MCP-Server: Shutting down server...
+[INFO] MCP-Server: Starting Weaviate MCP Server v0.1.0
+[INFO] MCP-Server: Configuration: host=host.docker.internal:8080, scheme=http, transport=http, read-only=false
+[INFO] MCP-Server: Initializing Weaviate connection...
+[INFO] MCP-Server: Connecting to Weaviate at http://host.docker.internal:8080
+[INFO] MCP-Server: Successfully connected to Weaviate
+[INFO] MCP-Server: Registering tools...
+[DEBUG] MCP-Server: weaviate-query schema before modification:
+{
+  "type": "object",
+  "properties": {
+    "collection": {
+      "description": "Name of the target collection",
+      "type": "string"
+    },
+    "limit": {
+      "default": 3,
+      "description": "Maximum number of results to return (default: 3)",
+      "type": "number"
+    },
+    "query": {
+      "description": "Query data within Weaviate",
+      "type": "string"
+    },
+    "targetProperties": {
+      "description": "Properties to return with the query. Check available properties via weaviate://schema/{collection} resources",
+      "type": "array"
+    }
+  },
+  "required": [
+    "query",
+    "collection",
+    "targetProperties"
+  ]
+}
+[DEBUG] MCP-Server: weaviate-query schema after modification:
+{
+  "type": "object",
+  "properties": {
+    "collection": {
+      "description": "Name of the target collection",
+      "type": "string"
+    },
+    "limit": {
+      "default": 3,
+      "description": "Maximum number of results to return (default: 3)",
+      "type": "number"
+    },
+    "query": {
+      "description": "Query data within Weaviate",
+      "type": "string"
+    },
+    "targetProperties": {
+      "description": "Properties to return with the query. Check available properties via weaviate://schema/{collection} resources",
+      "items": {
+        "type": "string"
+      },
+      "minItems": 1,
+      "type": "array"
+    }
+  },
+  "required": [
+    "query",
+    "collection",
+    "targetProperties"
+  ]
+}
+[INFO] MCP-Server: Registered tool: weaviate-query
+[INFO] MCP-Server: Registering resources...
+[INFO] MCP-Server: Registered 3 resources
+[INFO] MCP-Server: MCP Server initialized successfully
+[INFO] MCP-Server: Starting server with HTTP transport on 127.0.0.1:3000
+[INFO] MCP-Server: Starting HTTP server on 127.0.0.1:3000
+[INFO] MCP-Server: HTTP server listening on 127.0.0.1:3000
+[INFO] MCP-Server: Shutting down server...

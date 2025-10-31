@@ -1,0 +1,434 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d9" for="edge" attr.name="file_path" attr.type="string"/>
+<key id="d8" for="edge" attr.name="source_id" attr.type="string"/>
+<key id="d7" for="edge" attr.name="keywords" attr.type="string"/>
+<key id="d6" for="edge" attr.name="description" attr.type="string"/>
+<key id="d5" for="edge" attr.name="weight" attr.type="double"/>
+<key id="d4" for="node" attr.name="file_path" attr.type="string"/>
+<key id="d3" for="node" attr.name="source_id" attr.type="string"/>
+<key id="d2" for="node" attr.name="description" attr.type="string"/>
+<key id="d1" for="node" attr.name="entity_type" attr.type="string"/>
+<key id="d0" for="node" attr.name="entity_id" attr.type="string"/>
+<graph edgedefault="undirected"><node id="Local Music Festival">
+  <data key="d0">Local Music Festival</data>
+  <data key="d1">event</data>
+  <data key="d2">A local music festival is being organized in their town, providing an opportunity for the band to perform." </data>
+  <data key="d3">chunk-3f0b903f71b43547a59ae0a07c755ff9</data>
+  <data key="d4">C:\Users\Francisco Azeredo\OneDrive\Documents\tecnico\5 ano\tese\Código\MiniRAG\dataset\LiHua-World\data\LiHuaWorld\LiHua-World\week24\20260617_1700.txt</data>
+</node>
+<node id="LiHua">
+  <data key="d0">LiHua</data>
+  <data key="d1">person</data>
+  <data key="d2">Li Hua is a multifaceted individual associated with various interests and activities, particularly in the realm of music. Li Hua enjoys playing music sessions with Wolfgang Schulz and has suggested performing at the local music festival as part of her involvement in a band. She expresses interest in guitars and dreams of saving up to purchase one, showing particular enthusiasm for The Beatles' song "Come Together." Beyond her musical pursuits, Li Hua also takes an interest in practical matters such as reviewing warranty and maintenance plans for an air conditioner and discussing healthy breakfast options with Wolfgang Schulz.
+
+Additionally, Li Hua maintains a social life that includes reminders about photography exhibitions and dinner plans. She is actively involved in organizational tasks, as evidenced by her role in organizing and presenting the final website to Yuriko. Overall, Li Hua's interests span from musical hobbies and group activities to personal health and professional responsibilities.</data>
+  <data key="d3">chunk-a46b151a8b48ca747c4cfdaf44e08b97&lt;SEP&gt;chunk-280094d3d83b44cc5f8484162cd9fed5&lt;SEP&gt;chunk-f47d4d9064343ec0d19c83b327f3a94f&lt;SEP&gt;chunk-a9bbbd5e7380eaf0203bad93df8a2092&lt;SEP&gt;chunk-6ca9fc6bc04569c8ecb550e6791adaa9&lt;SEP&gt;chunk-3f0b903f71b43547a59ae0a07c755ff9</data>
+  <data key="d4">C:\Users\Francisco Azeredo\OneDrive\Documents\tecnico\5 ano\tese\Código\MiniRAG\dataset\LiHua-World\data\LiHuaWorld\LiHua-World\week32\20260810_1800.txt&lt;SEP&gt;C:\Users\Francisco Azeredo\OneDrive\Documents\tecnico\5 ano\tese\Código\MiniRAG\dataset\LiHua-World\data\LiHuaWorld\LiHua-World\week11\20260317_1530.txt&lt;SEP&gt;C:\Users\Francisco Azeredo\OneDrive\Documents\tecnico\5 ano\tese\Código\MiniRAG\dataset\LiHua-World\data\LiHuaWorld\LiHua-World\week24\20260617_1700.txt&lt;SEP&gt;C:\Users\Francisco Azeredo\OneDrive\Documents\tecnico\5 ano\tese\Código\MiniRAG\dataset\LiHua-World\data\LiHuaWorld\LiHua-World\week49\20261209_1900.txt&lt;SEP&gt;C:\Users\Francisco Azeredo\OneDrive\Documents\tecnico\5 ano\tese\Código\MiniRAG\dataset\LiHua-World\data\LiHuaWorld\LiHua-World\week28\20260718_1800.txt&lt;SEP&gt;C:\Users\Francisco Azeredo\OneDrive\Documents\tecnico\5 ano\tese\Código\MiniRAG\dataset\LiHua-World\data\LiHuaWorld\LiHua-World\week31\20260805_1600.txt</data>
+</node>
+<node id="WolfgangSchulz">
+  <data key="d0">WolfgangSchulz</data>
+  <data key="d1">person</data>
+  <data key="d2">"Wolfgang Schulz is a guitar enthusiast who recently found an expensive online guitar and suggested playing a new song with Li Hua."'&lt;SEP&gt;WolfgangSchulz is another band member who agrees to prepare for the festival on Sundays." </data>
+  <data key="d3">chunk-280094d3d83b44cc5f8484162cd9fed5&lt;SEP&gt;chunk-3f0b903f71b43547a59ae0a07c755ff9</data>
+  <data key="d4">C:\Users\Francisco Azeredo\OneDrive\Documents\tecnico\5 ano\tese\Código\MiniRAG\dataset\LiHua-World\data\LiHuaWorld\LiHua-World\week24\20260617_1700.txt&lt;SEP&gt;C:\Users\Francisco Azeredo\OneDrive\Documents\tecnico\5 ano\tese\Código\MiniRAG\dataset\LiHua-World\data\LiHuaWorld\LiHua-World\week28\20260718_1800.txt</data>
+</node>
+<node id="Yuriko">
+  <data key="d0">Yuriko</data>
+  <data key="d1">person</data>
+  <data key="d2">Yuriko is a band member whose input will be sought regarding a bass-heavy track for the festival." </data>
+  <data key="d3">chunk-3f0b903f71b43547a59ae0a07c755ff9</data>
+  <data key="d4">C:\Users\Francisco Azeredo\OneDrive\Documents\tecnico\5 ano\tese\Código\MiniRAG\dataset\LiHua-World\data\LiHuaWorld\LiHua-World\week24\20260617_1700.txt</data>
+</node>
+<node id="Town">
+  <data key="d0">Town</data>
+  <data key="d1">location</data>
+  <data key="d2">The local music festival is being held in their town." </data>
+  <data key="d3">chunk-3f0b903f71b43547a59ae0a07c755ff9</data>
+  <data key="d4">C:\Users\Francisco Azeredo\OneDrive\Documents\tecnico\5 ano\tese\Código\MiniRAG\dataset\LiHua-World\data\LiHuaWorld\LiHua-World\week24\20260617_1700.txt</data>
+</node>
+<node id="LiHua and WolfgangSchulz">
+  <data key="d0">LiHua and WolfgangSchulz</data>
+  <data key="d3">chunk-3f0b903f71b43547a59ae0a07c755ff9</data>
+  <data key="d2">Both LiHua and WolfgangSchulz are discussing the opportunity to perform at the local music festival on Sundays." </data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">C:\Users\Francisco Azeredo\OneDrive\Documents\tecnico\5 ano\tese\Código\MiniRAG\dataset\LiHua-World\data\LiHuaWorld\LiHua-World\week24\20260617_1700.txt</data>
+</node>
+<node id="WolfgangSchulz and Yuriko">
+  <data key="d0">WolfgangSchulz and Yuriko</data>
+  <data key="d3">chunk-3f0b903f71b43547a59ae0a07c755ff9</data>
+  <data key="d2">WolfgangSchulz will message Yuriko to get her input for the festival setlist." </data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">C:\Users\Francisco Azeredo\OneDrive\Documents\tecnico\5 ano\tese\Código\MiniRAG\dataset\LiHua-World\data\LiHuaWorld\LiHua-World\week24\20260617_1700.txt</data>
+</node>
+<node id="&lt;Omen&gt;">
+  <data key="d0">&lt;Omen&gt;</data>
+  <data key="d1">&lt;person&gt;</data>
+  <data key="d2">Omen is a character from the video game "Overwatch." He uses his stealth and deception abilities to gather intelligence and disrupt enemy operations. Omen often employs yoga stretches, static stretches, foam rolling, and hydration as part of his preparation and recovery routines.</data>
+  <data key="d3">chunk-03f59e46ad75831ed20f1f7d3da55584</data>
+  <data key="d4">C:\Users\Francisco Azeredo\OneDrive\Documents\tecnico\5 ano\tese\Código\MiniRAG\dataset\LiHua-World\data\LiHuaWorld\LiHua-World\week17\20260428_1700.txt</data>
+</node>
+<node id="&lt;Phoenix&gt;">
+  <data key="d0">&lt;Phoenix&gt;</data>
+  <data key="d1">&lt;person&gt;</data>
+  <data key="d2">Phoenix is a character from the video game "Overwatch." Known for her fiery abilities, Phoenix combines strength and speed in combat. She frequently practices static stretches and foam rolling to maintain flexibility and performance.</data>
+  <data key="d3">chunk-03f59e46ad75831ed20f1f7d3da55584</data>
+  <data key="d4">C:\Users\Francisco Azeredo\OneDrive\Documents\tecnico\5 ano\tese\Código\MiniRAG\dataset\LiHua-World\data\LiHuaWorld\LiHua-World\week17\20260428_1700.txt</data>
+</node>
+<node id="&lt;Brimstone&gt;">
+  <data key="d0">&lt;Brimstone&gt;</data>
+  <data key="d1">&lt;person&gt;</data>
+  <data key="d2">Brimstone is a character from the video game "Overwatch." He specializes in explosive attacks and support roles. Brimstone often works with his hamstrings, practicing foam rolling to enhance his mobility and combat effectiveness.</data>
+  <data key="d3">chunk-03f59e46ad75831ed20f1f7d3da55584</data>
+  <data key="d4">C:\Users\Francisco Azeredo\OneDrive\Documents\tecnico\5 ano\tese\Código\MiniRAG\dataset\LiHua-World\data\LiHuaWorld\LiHua-World\week17\20260428_1700.txt</data>
+</node>
+<node id="&lt;LiHua&gt;">
+  <data key="d0">&lt;LiHua&gt;</data>
+  <data key="d1">&lt;person&gt;</data>
+  <data key="d2">Li Hua is a character from the video game "Overwatch." A skilled assassin, Li Hua focuses on precise strikes and rapid movements. She emphasizes hydration as part of her training regimen to ensure optimal performance.</data>
+  <data key="d3">chunk-03f59e46ad75831ed20f1f7d3da55584</data>
+  <data key="d4">C:\Users\Francisco Azeredo\OneDrive\Documents\tecnico\5 ano\tese\Código\MiniRAG\dataset\LiHua-World\data\LiHuaWorld\LiHua-World\week17\20260428_1700.txt</data>
+</node>
+<node id="&lt;Breach&gt;">
+  <data key="d0">&lt;Breach&gt;</data>
+  <data key="d1">&lt;person&gt;</data>
+  <data key="d2">Breach is a character from the video game "Overwatch." He is known for his powerful explosive attacks and demolition skills. Breach also focuses on hydration, maintaining proper fluid levels to support his intense gameplay sessions.</data>
+  <data key="d3">chunk-03f59e46ad75831ed20f1f7d3da55584</data>
+  <data key="d4">C:\Users\Francisco Azeredo\OneDrive\Documents\tecnico\5 ano\tese\Código\MiniRAG\dataset\LiHua-World\data\LiHuaWorld\LiHua-World\week17\20260428_1700.txt</data>
+</node>
+<node id="&lt;Jett&gt;">
+  <data key="d0">&lt;Jett&gt;</data>
+  <data key="d1">&lt;person&gt;</data>
+  <data key="d2">Jett is a character from the video game "Overwatch." A fast and agile fighter, Jett relies on her speed and mobility. She incorporates hydration and electrolyte powders into her training to stay energized during battles.</data>
+  <data key="d3">chunk-03f59e46ad75831ed20f1f7d3da55584</data>
+  <data key="d4">C:\Users\Francisco Azeredo\OneDrive\Documents\tecnico\5 ano\tese\Código\MiniRAG\dataset\LiHua-World\data\LiHuaWorld\LiHua-World\week17\20260428_1700.txt</data>
+</node>
+<node id="&lt;Cypher&gt;">
+  <data key="d0">&lt;Cypher&gt;</data>
+  <data key="d1">&lt;person&gt;</data>
+  <data key="d2">Cypher is a character from the video game "Overwatch." He excels in hacking and support roles, often providing crucial intelligence to his team. Cypher uses a water bottle for hydration during missions to ensure he stays alert and focused.</data>
+  <data key="d3">chunk-03f59e46ad75831ed20f1f7d3da55584</data>
+  <data key="d4">C:\Users\Francisco Azeredo\OneDrive\Documents\tecnico\5 ano\tese\Código\MiniRAG\dataset\LiHua-World\data\LiHuaWorld\LiHua-World\week17\20260428_1700.txt</data>
+</node>
+<node id="&lt;Sage&gt;">
+  <data key="d0">&lt;Sage&gt;</data>
+  <data key="d1">&lt;person&gt;</data>
+  <data key="d2">Sage is a character from the video game "Overwatch." A skilled healer, Sage focuses on maintaining her allies' health and providing support in combat. She emphasizes hydration as part of her recovery routines to keep her abilities sharp.</data>
+  <data key="d3">chunk-03f59e46ad75831ed20f1f7d3da55584</data>
+  <data key="d4">C:\Users\Francisco Azeredo\OneDrive\Documents\tecnico\5 ano\tese\Código\MiniRAG\dataset\LiHua-World\data\LiHuaWorld\LiHua-World\week17\20260428_1700.txt</data>
+</node>
+<node id="&lt;Raze&gt;">
+  <data key="d0">&lt;Raze&gt;</data>
+  <data key="d1">&lt;person&gt;</data>
+  <data key="d2">Raze is a character from the video game "Overwatch." She specializes in stealth and assassination, using her high-tech gadgets to take out targets silently. Raze sets goals for hydration to maintain her physical capabilities during missions.</data>
+  <data key="d3">chunk-03f59e46ad75831ed20f1f7d3da55584</data>
+  <data key="d4">C:\Users\Francisco Azeredo\OneDrive\Documents\tecnico\5 ano\tese\Código\MiniRAG\dataset\LiHua-World\data\LiHuaWorld\LiHua-World\week17\20260428_1700.txt</data>
+</node>
+<node id="&lt;Viper&gt;">
+  <data key="d0">&lt;Viper&gt;</data>
+  <data key="d1">&lt;person&gt;</data>
+  <data key="d2">Viper is a character from the video game "Overwatch." A skilled sniper and biologist, Viper focuses on precision strikes and environmental hazards. She prioritizes hydration to support her long-range engagements.</data>
+  <data key="d3">chunk-03f59e46ad75831ed20f1f7d3da55584</data>
+  <data key="d4">C:\Users\Francisco Azeredo\OneDrive\Documents\tecnico\5 ano\tese\Código\MiniRAG\dataset\LiHua-World\data\LiHuaWorld\LiHua-World\week17\20260428_1700.txt</data>
+</node>
+<node id="&lt;gym&gt;">
+  <data key="d0">&lt;gym&gt;</data>
+  <data key="d1">&lt;category&gt;</data>
+  <data key="d2">The gym is a place where individuals engage in physical activities such as workouts, yoga stretches, and static stretches for fitness and recovery. It provides equipment like foam rollers and offers various exercise routines.</data>
+  <data key="d3">chunk-03f59e46ad75831ed20f1f7d3da55584</data>
+  <data key="d4">C:\Users\Francisco Azeredo\OneDrive\Documents\tecnico\5 ano\tese\Código\MiniRAG\dataset\LiHua-World\data\LiHuaWorld\LiHua-World\week17\20260428_1700.txt</data>
+</node>
+<node id="&lt;workouts&gt;">
+  <data key="d0">&lt;workouts&gt;</data>
+  <data key="d1">&lt;event&gt;</data>
+  <data key="d2">Workouts are physical exercises performed at the gym or elsewhere to improve fitness levels, build strength, and maintain a healthy lifestyle. They can include activities such as yoga stretches, static stretches, and specific muscle groups like hamstrings, quads, glutes, and calves.</data>
+  <data key="d3">chunk-03f59e46ad75831ed20f1f7d3da55584</data>
+  <data key="d4">C:\Users\Francisco Azeredo\OneDrive\Documents\tecnico\5 ano\tese\Código\MiniRAG\dataset\LiHua-World\data\LiHuaWorld\LiHua-World\week17\20260428_1700.txt</data>
+</node>
+<node id="&lt;yoga stretches&gt;">
+  <data key="d0">&lt;yoga stretches&gt;</data>
+  <data key="d1">&lt;activity&gt;</data>
+  <data key="d2">Yoga stretches are flexibility exercises that help improve the range of motion in muscles and joints, often performed at the gym or during personal training sessions. These stretches can be used for both physical fitness and recovery purposes.</data>
+  <data key="d3">chunk-03f59e46ad75831ed20f1f7d3da55584</data>
+  <data key="d4">C:\Users\Francisco Azeredo\OneDrive\Documents\tecnico\5 ano\tese\Código\MiniRAG\dataset\LiHua-World\data\LiHuaWorld\LiHua-World\week17\20260428_1700.txt</data>
+</node>
+<node id="&lt;recovery days&gt;">
+  <data key="d0">&lt;recovery days&gt;</data>
+  <data key="d1">&lt;occasion&gt;</data>
+  <data key="d2">Recovery days are specific times designated for resting and allowing the body to heal after intense workouts. They involve practices such as static stretches, foam rolling, hydration, and other recovery activities.</data>
+  <data key="d3">chunk-03f59e46ad75831ed20f1f7d3da55584</data>
+  <data key="d4">C:\Users\Francisco Azeredo\OneDrive\Documents\tecnico\5 ano\tese\Código\MiniRAG\dataset\LiHua-World\data\LiHuaWorld\LiHua-World\week17\20260428_1700.txt</data>
+</node>
+<node id="&lt;static stretches&gt;">
+  <data key="d0">&lt;static stretches&gt;</data>
+  <data key="d1">&lt;exercise&gt;</data>
+  <data key="d2">Static stretches are a type of flexibility exercise that involves holding a position without movement for an extended period. These exercises are often used during recovery days or between workout sessions to aid in muscle recovery and improve flexibility.</data>
+  <data key="d3">chunk-03f59e46ad75831ed20f1f7d3da55584</data>
+  <data key="d4">C:\Users\Francisco Azeredo\OneDrive\Documents\tecnico\5 ano\tese\Código\MiniRAG\dataset\LiHua-World\data\LiHuaWorld\LiHua-World\week17\20260428_1700.txt</data>
+</node>
+<node id="&lt;foam rolling&gt;">
+  <data key="d0">&lt;foam rolling&gt;</data>
+  <data key="d1">&lt;equipment&gt;</data>
+  <data key="d2">Foam rolling is a self-myofascial release technique using a foam roller to apply pressure to muscles, aiding in the breakdown of scar tissue and improving mobility. It is commonly used at the gym or during personal training sessions for recovery purposes.</data>
+  <data key="d3">chunk-03f59e46ad75831ed20f1f7d3da55584</data>
+  <data key="d4">C:\Users\Francisco Azeredo\OneDrive\Documents\tecnico\5 ano\tese\Código\MiniRAG\dataset\LiHua-World\data\LiHuaWorld\LiHua-World\week17\20260428_1700.txt</data>
+</node>
+<node id="&lt;hamstrings&gt;">
+  <data key="d0">&lt;hamstrings&gt;</data>
+  <data key="d1">&lt;muscle&gt;</data>
+  <data key="d2">The hamstrings are three muscle groups (biceps femoris, semitendinosus, and semimembranosus) located in the back of the thigh. They are often targeted through static stretches and foam rolling to improve flexibility and performance.</data>
+  <data key="d3">chunk-03f59e46ad75831ed20f1f7d3da55584</data>
+  <data key="d4">C:\Users\Francisco Azeredo\OneDrive\Documents\tecnico\5 ano\tese\Código\MiniRAG\dataset\LiHua-World\data\LiHuaWorld\LiHua-World\week17\20260428_1700.txt</data>
+</node>
+<node id="&lt;quads&gt;">
+  <data key="d0">&lt;quads&gt;</data>
+  <data key="d1">&lt;muscle&gt;</data>
+  <data key="d2">The quadriceps, or quads, are a group of four muscles (rectus femoris, vastus lateralis, vastus intermedius, and vastus medialis) located in the front of the thigh. They are frequently worked through static stretches and foam rolling to enhance strength and mobility.</data>
+  <data key="d3">chunk-03f59e46ad75831ed20f1f7d3da55584</data>
+  <data key="d4">C:\Users\Francisco Azeredo\OneDrive\Documents\tecnico\5 ano\tese\Código\MiniRAG\dataset\LiHua-World\data\LiHuaWorld\LiHua-World\week17\20260428_1700.txt</data>
+</node>
+<node id="&lt;glutes&gt;">
+  <data key="d0">&lt;glutes&gt;</data>
+  <data key="d1">&lt;muscle&gt;</data>
+  <data key="d2">The glutes, or gluteal muscles (maximus, medius, and minimus), form the buttocks and play a significant role in lower body movements. They are commonly targeted through static stretches and foam rolling to improve overall strength and flexibility.</data>
+  <data key="d3">chunk-03f59e46ad75831ed20f1f7d3da55584</data>
+  <data key="d4">C:\Users\Francisco Azeredo\OneDrive\Documents\tecnico\5 ano\tese\Código\MiniRAG\dataset\LiHua-World\data\LiHuaWorld\LiHua-World\week17\20260428_1700.txt</data>
+</node>
+<node id="&lt;calves&gt;">
+  <data key="d0">&lt;calves&gt;</data>
+  <data key="d1">&lt;muscle&gt;</data>
+  <data key="d2">The calves are composed of two main muscles (gastrocnemius and soleus) located at the back of the lower leg. They are often worked through static stretches and foam rolling to enhance muscle performance and reduce tightness.</data>
+  <data key="d3">chunk-03f59e46ad75831ed20f1f7d3da55584</data>
+  <data key="d4">C:\Users\Francisco Azeredo\OneDrive\Documents\tecnico\5 ano\tese\Código\MiniRAG\dataset\LiHua-World\data\LiHuaWorld\LiHua-World\week17\20260428_1700.txt</data>
+</node>
+<node id="&lt;back&gt;">
+  <data key="d0">&lt;back&gt;</data>
+  <data key="d1">&lt;body_part&gt;</data>
+  <data key="d2">The back is a complex body part consisting of various muscles, bones, and tissues that support posture and facilitate movement. It can be targeted through static stretches and foam rolling for improved flexibility and overall health.</data>
+  <data key="d3">chunk-03f59e46ad75831ed20f1f7d3da55584</data>
+  <data key="d4">C:\Users\Francisco Azeredo\OneDrive\Documents\tecnico\5 ano\tese\Código\MiniRAG\dataset\LiHua-World\data\LiHuaWorld\LiHua-World\week17\20260428_1700.txt</data>
+</node>
+<node id="&lt;hydration&gt;">
+  <data key="d0">&lt;hydration&gt;</data>
+  <data key="d1">&lt;activity&gt;</data>
+  <data key="d2">Hydration involves maintaining proper fluid levels in the body to ensure optimal physical performance and recovery. This activity is crucial for characters like Omen, Li Hua, Breach, Jett, Sage, and Raze to maintain their abilities during intense missions or workouts.</data>
+  <data key="d3">chunk-03f59e46ad75831ed20f1f7d3da55584</data>
+  <data key="d4">C:\Users\Francisco Azeredo\OneDrive\Documents\tecnico\5 ano\tese\Código\MiniRAG\dataset\LiHua-World\data\LiHuaWorld\LiHua-World\week17\20260428_1700.txt</data>
+</node>
+<node id="&lt;electrolyte powders&gt;">
+  <data key="d0">&lt;electrolyte powders&gt;</data>
+  <data key="d1">&lt;item&gt;</data>
+  <data key="d2">Electrolyte powders are substances added to water to replenish minerals lost through sweating. They are often used by characters like Jett for hydration and electrolyte balance during high-intensity training sessions.</data>
+  <data key="d3">chunk-03f59e46ad75831ed20f1f7d3da55584</data>
+  <data key="d4">C:\Users\Francisco Azeredo\OneDrive\Documents\tecnico\5 ano\tese\Código\MiniRAG\dataset\LiHua-World\data\LiHuaWorld\LiHua-World\week17\20260428_1700.txt</data>
+</node>
+<node id="&lt;water bottle&gt;">
+  <data key="d0">&lt;water bottle&gt;</data>
+  <data key="d1">&lt;item&gt;</data>
+  <data key="d2">A water bottle is a container designed to hold water, commonly used for hydration purposes in various settings, including the gym or during personal training sessions.</data>
+  <data key="d3">chunk-03f59e46ad75831ed20f1f7d3da55584</data>
+  <data key="d4">C:\Users\Francisco Azeredo\OneDrive\Documents\tecnico\5 ano\tese\Código\MiniRAG\dataset\LiHua-World\data\LiHuaWorld\LiHua-World\week17\20260428_1700.txt</data>
+</node>
+<node id="&lt;goals&gt;">
+  <data key="d0">&lt;goals&gt;</data>
+  <data key="d1">&lt;concept&gt;</data>
+  <data key="d2">Goals are specific objectives set by individuals to achieve certain outcomes, such as maintaining proper hydration. They provide motivation and direction for behaviors like setting reminders to drink water regularly.</data>
+  <data key="d3">chunk-03f59e46ad75831ed20f1f7d3da55584</data>
+  <data key="d4">C:\Users\Francisco Azeredo\OneDrive\Documents\tecnico\5 ano\tese\Código\MiniRAG\dataset\LiHua-World\data\LiHuaWorld\LiHua-World\week17\20260428_1700.txt</data>
+</node>
+<node id="JenniferMoore">
+  <data key="d0">JenniferMoore</data>
+  <data key="d1">person</data>
+  <data key="d2">"JenniferMoore is a mentor or coach who has been working with Li Hua on personal development or fitness sessions.")&lt;|</data>
+  <data key="d3">chunk-c129813b5bcbb8d8654a588762a5d55b</data>
+  <data key="d4">C:\Users\Francisco Azeredo\OneDrive\Documents\tecnico\5 ano\tese\Código\MiniRAG\dataset\LiHua-World\data\LiHuaWorld\LiHua-World\week25\20260623_1015.txt</data>
+</node>
+<node id="Client">
+  <data key="d0">Client</data>
+  <data key="d1">person</data>
+  <data key="d2">A generic term for individuals receiving mentorship or coaching services. Clients often work on specific goals such as personal development or fitness improvements.</data>
+  <data key="d3">chunk-c129813b5bcbb8d8654a588762a5d55b</data>
+  <data key="d4">C:\Users\Francisco Azeredo\OneDrive\Documents\tecnico\5 ano\tese\Código\MiniRAG\dataset\LiHua-World\data\LiHuaWorld\LiHua-World\week25\20260623_1015.txt</data>
+</node>
+<node id="Mentorship">
+  <data key="d0">Mentorship</data>
+  <data key="d1">category</data>
+  <data key="d2">A structured relationship where a more experienced individual (the mentor) guides and supports another person (the mentee) in achieving specific goals. Mentorship often involves regular sessions focused on personal or professional development.</data>
+  <data key="d3">chunk-c129813b5bcbb8d8654a588762a5d55b</data>
+  <data key="d4">C:\Users\Francisco Azeredo\OneDrive\Documents\tecnico\5 ano\tese\Código\MiniRAG\dataset\LiHua-World\data\LiHuaWorld\LiHua-World\week25\20260623_1015.txt</data>
+</node>
+<node id="Personal Development">
+  <data key="d0">Personal Development</data>
+  <data key="d1">category</data>
+  <data key="d2">A broad term encompassing activities and practices aimed at improving various aspects of an individual's life, such as skills, knowledge, physical fitness, or mental health.</data>
+  <data key="d3">chunk-c129813b5bcbb8d8654a588762a5d55b</data>
+  <data key="d4">C:\Users\Francisco Azeredo\OneDrive\Documents\tecnico\5 ano\tese\Código\MiniRAG\dataset\LiHua-World\data\LiHuaWorld\LiHua-World\week25\20260623_1015.txt</data>
+</node>
+<node id="Fitness">
+  <data key="d0">Fitness</data>
+  <data key="d1">category</data>
+  <data key="d2">The practice of engaging in physical activity to improve or maintain one's health and physical fitness.</data>
+  <data key="d3">chunk-c129813b5bcbb8d8654a588762a5d55b</data>
+  <data key="d4">C:\Users\Francisco Azeredo\OneDrive\Documents\tecnico\5 ano\tese\Código\MiniRAG\dataset\LiHua-World\data\LiHuaWorld\LiHua-World\week25\20260623_1015.txt</data>
+</node>
+<node id="Progress">
+  <data key="d0">Progress</data>
+  <data key="d1">category</data>
+  <data key="d2">The process of making forward movement or change towards a specific goal.</data>
+  <data key="d3">chunk-c129813b5bcbb8d8654a588762a5d55b</data>
+  <data key="d4">C:\Users\Francisco Azeredo\OneDrive\Documents\tecnico\5 ano\tese\Código\MiniRAG\dataset\LiHua-World\data\LiHuaWorld\LiHua-World\week25\20260623_1015.txt</data>
+</node>
+<node id="Dedication">
+  <data key="d0">Dedication</data>
+  <data key="d1">category</data>
+  <data key="d2">The quality of showing commitment or devotion to a task, goal, or cause.</data>
+  <data key="d3">chunk-c129813b5bcbb8d8654a588762a5d55b</data>
+  <data key="d4">C:\Users\Francisco Azeredo\OneDrive\Documents\tecnico\5 ano\tese\Código\MiniRAG\dataset\LiHua-World\data\LiHuaWorld\LiHua-World\week25\20260623_1015.txt</data>
+</node>
+<node id="Encouragement">
+  <data key="d0">Encouragement</data>
+  <data key="d1">category</data>
+  <data key="d2">The act of motivating or giving support and confidence to someone.</data>
+  <data key="d3">chunk-c129813b5bcbb8d8654a588762a5d55b</data>
+  <data key="d4">C:\Users\Francisco Azeredo\OneDrive\Documents\tecnico\5 ano\tese\Código\MiniRAG\dataset\LiHua-World\data\LiHuaWorld\LiHua-World\week25\20260623_1015.txt</data>
+</node>
+<node id="AdamSmith">
+  <data key="d0">AdamSmith</data>
+  <data key="d1">person</data>
+  <data key="d2">"AdamSmith is one of the individuals involved in arranging for the curtain booking.")&lt;SEP&gt;AdamSmith is discussing warranty and maintenance plans with Li Hua.</data>
+  <data key="d3">chunk-a46b151a8b48ca747c4cfdaf44e08b97&lt;SEP&gt;chunk-3d1ee1e32db670189a9c3934b94c8538</data>
+  <data key="d4">C:\Users\Francisco Azeredo\OneDrive\Documents\tecnico\5 ano\tese\Código\MiniRAG\dataset\LiHua-World\data\LiHuaWorld\LiHua-World\week32\20260810_1800.txt&lt;SEP&gt;C:\Users\Francisco Azeredo\OneDrive\Documents\tecnico\5 ano\tese\Código\MiniRAG\dataset\LiHua-World\data\LiHuaWorld\LiHua-World\week40\20261007_1200.txt</data>
+</node>
+<node id="Warranty and Maintenance Plans">
+  <data key="d0">Warranty and Maintenance Plans</data>
+  <data key="d1">category</data>
+  <data key="d2">The discussion revolves around the details of the warranty and maintenance plans for an air conditioner.</data>
+  <data key="d3">chunk-a46b151a8b48ca747c4cfdaf44e08b97</data>
+  <data key="d4">C:\Users\Francisco Azeredo\OneDrive\Documents\tecnico\5 ano\tese\Código\MiniRAG\dataset\LiHua-World\data\LiHuaWorld\LiHua-World\week32\20260810_1800.txt</data>
+</node>
+<node id="Air Conditioner">
+  <data key="d0">Air Conditioner</data>
+  <data key="d1">equipment</data>
+  <data key="d2">The conversation is related to a specific air conditioner that requires warranty and maintenance attention.</data>
+  <data key="d3">chunk-a46b151a8b48ca747c4cfdaf44e08b97</data>
+  <data key="d4">C:\Users\Francisco Azeredo\OneDrive\Documents\tecnico\5 ano\tese\Código\MiniRAG\dataset\LiHua-World\data\LiHuaWorld\LiHua-World\week32\20260810_1800.txt</data>
+</node>
+<node id="&lt;ThaneChambers&gt;">
+  <data key="d0">&lt;ThaneChambers&gt;</data>
+  <data key="d1">person</data>
+  <data key="d2">Thane Chambers is a character in "Demon's Souls" who reflects on Arthur’s ending as moving and redemptive, appreciating how the soundtrack enhances emotional scenes. He values the journey towards redemption and the impact of music during critical moments.</data>
+  <data key="d3">chunk-430e8cddee106871c8512521fbef0ce2</data>
+  <data key="d4">C:\Users\Francisco Azeredo\OneDrive\Documents\tecnico\5 ano\tese\Código\MiniRAG\dataset\LiHua-World\data\LiHuaWorld\LiHua-World\week45\20261115_1500.txt</data>
+</node>
+<node id="JakeWatson">
+  <data key="d0">JakeWatson</data>
+  <data key="d1">person</data>
+  <data key="d2">Jake Watson is a friend of Li Hua who is inviting him to a practice session focusing on shooting.</data>
+  <data key="d3">chunk-24862efa9a2bdc997cb44a1982ce2c4e</data>
+  <data key="d4">C:\Users\Francisco Azeredo\OneDrive\Documents\tecnico\5 ano\tese\Código\MiniRAG\dataset\LiHua-World\data\LiHuaWorld\LiHua-World\week44\20261106_2000.txt</data>
+</node>
+<node id="Jake Watson">
+  <data key="d0">Jake Watson</data>
+  <data key="d1">person</data>
+  <data key="d2">Jake Watson is a friend of Li Hua who organized a practice session focusing on shooting for Li Hua. He is proactive in organizing social and sporting activities with his friends.</data>
+  <data key="d3">chunk-24862efa9a2bdc997cb44a1982ce2c4e</data>
+  <data key="d4">C:\Users\Francisco Azeredo\OneDrive\Documents\tecnico\5 ano\tese\Código\MiniRAG\dataset\LiHua-World\data\LiHuaWorld\LiHua-World\week44\20261106_2000.txt</data>
+</node>
+<node id="Yuriko Yamamoto">
+  <data key="d0">Yuriko Yamamoto</data>
+  <data key="d1">person</data>
+  <data key="d2">Yuriko Yamamoto is a person whose full name has been provided. No additional attributes or activities are specified in the input text.</data>
+  <data key="d3">chunk-185a5bdb67fb5b40985c0003d607e565</data>
+  <data key="d4">C:\Users\Francisco Azeredo\OneDrive\Documents\tecnico\5 ano\tese\Código\MiniRAG\dataset\LiHua-World\data\LiHuaWorld\LiHua-World\week18\20260509_1830.txt</data>
+</node>
+<node id="gentle tunes">
+  <data key="d0">gentle tunes</data>
+  <data key="d3">chunk-185a5bdb67fb5b40985c0003d607e565</data>
+  <data key="d2">No specific connection is made between Yuriko Yamamoto and gentle tunes in the input text.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">C:\Users\Francisco Azeredo\OneDrive\Documents\tecnico\5 ano\tese\Código\MiniRAG\dataset\LiHua-World\data\LiHuaWorld\LiHua-World\week18\20260509_1830.txt</data>
+</node>
+<node id="The Beatles">
+  <data key="d0">The Beatles</data>
+  <data key="d1">category</data>
+  <data key="d2">"The Beatles are known for their song 'Come Together', which Wolfgang Schulz and Li Hua consider playing in their next music session."'</data>
+  <data key="d3">chunk-280094d3d83b44cc5f8484162cd9fed5</data>
+  <data key="d4">C:\Users\Francisco Azeredo\OneDrive\Documents\tecnico\5 ano\tese\Código\MiniRAG\dataset\LiHua-World\data\LiHuaWorld\LiHua-World\week28\20260718_1800.txt</data>
+</node>
+<node id="guitar">
+  <data key="d0">guitar</data>
+  <data key="d1">equipment</data>
+  <data key="d2">"A guitar is the primary focus of conversation between Wolfgang Schulz and Li Hua. They discuss purchasing and playing it together."'</data>
+  <data key="d3">chunk-280094d3d83b44cc5f8484162cd9fed5</data>
+  <data key="d4">C:\Users\Francisco Azeredo\OneDrive\Documents\tecnico\5 ano\tese\Código\MiniRAG\dataset\LiHua-World\data\LiHuaWorld\LiHua-World\week28\20260718_1800.txt</data>
+</node>
+<node id="music session">
+  <data key="d0">music session</data>
+  <data key="d1">event</data>
+  <data key="d2">"Wolfgang Schulz and Li Hua plan to have a music session where they will play songs like 'Come Together' by The Beatles."'</data>
+  <data key="d3">chunk-280094d3d83b44cc5f8484162cd9fed5</data>
+  <data key="d4">C:\Users\Francisco Azeredo\OneDrive\Documents\tecnico\5 ano\tese\Código\MiniRAG\dataset\LiHua-World\data\LiHuaWorld\LiHua-World\week28\20260718_1800.txt</data>
+</node>
+<node id="oatmeal">
+  <data key="d0">oatmeal</data>
+  <data key="d3">chunk-a9bbbd5e7380eaf0203bad93df8a2092</data>
+  <data key="d2">LiHua is discussing healthy breakfast options including oatmeal with WolfgangSchulz.</data>
+  <data key="d1">UNKNOWN</data>
+  <data key="d4">C:\Users\Francisco Azeredo\OneDrive\Documents\tecnico\5 ano\tese\Código\MiniRAG\dataset\LiHua-World\data\LiHuaWorld\LiHua-World\week49\20261209_1900.txt</data>
+</node>
+<node id="Baking Class">
+  <data key="d0">Baking Class</data>
+  <data key="d1">event</data>
+  <data key="d2">A free baking class hosted by HaileyJohnson is taking place this weekend."UrlParser"http://example.com/baking-class</data>
+  <data key="d3">chunk-57857805c6f7d6668f75bb5a4a3a46c6</data>
+  <data key="d4">C:\Users\Francisco Azeredo\OneDrive\Documents\tecnico\5 ano\tese\Código\MiniRAG\dataset\LiHua-World\data\LiHuaWorld\LiHua-World\week24\20260618_1130.txt</data>
+</node>
+<node id="Website Design Team">
+  <data key="d0">Website Design Team</data>
+  <data key="d1">organization</data>
+  <data key="d2">The Website Design Team is responsible for creating and finalizing the website that LiHua will show to Yuriko.</data>
+  <data key="d3">chunk-6ca9fc6bc04569c8ecb550e6791adaa9</data>
+  <data key="d4">C:\Users\Francisco Azeredo\OneDrive\Documents\tecnico\5 ano\tese\Código\MiniRAG\dataset\LiHua-World\data\LiHuaWorld\LiHua-World\week11\20260317_1530.txt</data>
+</node>
+<node id="Yuriko's Company">
+  <data key="d0">Yuriko's Company</data>
+  <data key="d1">organization</data>
+  <data key="d2">Yuriko Yamamoto works for Yuriko's Company and will provide feedback on the final website.</data>
+  <data key="d3">chunk-6ca9fc6bc04569c8ecb550e6791adaa9</data>
+  <data key="d4">C:\Users\Francisco Azeredo\OneDrive\Documents\tecnico\5 ano\tese\Código\MiniRAG\dataset\LiHua-World\data\LiHuaWorld\LiHua-World\week11\20260317_1530.txt</data>
+</node>
+<node id="Design Specifications Document">
+  <data key="d0">Design Specifications Document</data>
+  <data key="d1">category</data>
+  <data key="d2">Design Specifications Document contains all the details and requirements for the final website that LiHua will present to Yuriko.</data>
+  <data key="d3">chunk-6ca9fc6bc04569c8ecb550e6791adaa9</data>
+  <data key="d4">C:\Users\Francisco Azeredo\OneDrive\Documents\tecnico\5 ano\tese\Código\MiniRAG\dataset\LiHua-World\data\LiHuaWorld\LiHua-World\week11\20260317_1530.txt</data>
+</node>
+<edge source="Local Music Festival" target="LiHua and WolfgangSchulz">
+  <data key="d5">9.0</data>
+  <data key="d6">Both LiHua and WolfgangSchulz are discussing the opportunity to perform at the local music festival on Sundays." </data>
+  <data key="d7">planning, coordination</data>
+  <data key="d8">chunk-3f0b903f71b43547a59ae0a07c755ff9</data>
+  <data key="d9">C:\Users\Francisco Azeredo\OneDrive\Documents\tecnico\5 ano\tese\Código\MiniRAG\dataset\LiHua-World\data\LiHuaWorld\LiHua-World\week24\20260617_1700.txt</data>
+</edge>
+<edge source="Local Music Festival" target="WolfgangSchulz and Yuriko">
+  <data key="d5">8.0</data>
+  <data key="d6">WolfgangSchulz will message Yuriko to get her input for the festival setlist." </data>
+  <data key="d7">teamwork, collaboration</data>
+  <data key="d8">chunk-3f0b903f71b43547a59ae0a07c755ff9</data>
+  <data key="d9">C:\Users\Francisco Azeredo\OneDrive\Documents\tecnico\5 ano\tese\Código\MiniRAG\dataset\LiHua-World\data\LiHuaWorld\LiHua-World\week24\20260617_1700.txt</data>
+</edge>
+<edge source="LiHua" target="oatmeal">
+  <data key="d5">1.0</data>
+  <data key="d6">LiHua is discussing healthy breakfast options including oatmeal with WolfgangSchulz.</data>
+  <data key="d7">discussion</data>
+  <data key="d8">chunk-a9bbbd5e7380eaf0203bad93df8a2092</data>
+  <data key="d9">C:\Users\Francisco Azeredo\OneDrive\Documents\tecnico\5 ano\tese\Código\MiniRAG\dataset\LiHua-World\data\LiHuaWorld\LiHua-World\week49\20261209_1900.txt</data>
+</edge>
+<edge source="Yuriko Yamamoto" target="gentle tunes">
+  <data key="d5">0.5</data>
+  <data key="d6">No specific connection is made between Yuriko Yamamoto and gentle tunes in the input text.</data>
+  <data key="d7">Musician-Music Style</data>
+  <data key="d8">chunk-185a5bdb67fb5b40985c0003d607e565</data>
+  <data key="d9">C:\Users\Francisco Azeredo\OneDrive\Documents\tecnico\5 ano\tese\Código\MiniRAG\dataset\LiHua-World\data\LiHuaWorld\LiHua-World\week18\20260509_1830.txt</data>
+</edge>
+</graph></graphml>

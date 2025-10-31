@@ -1,0 +1,4 @@
+num_entidades,num_pastas_per_entidade,num_ficheiros_per_pasta,num_metadados_per_ficheiro,num_fluxos,num_etapas_per_fluxo,setup_collections,insert_sample_data,query_fluxo_etapas,query_entidade_hierarchy,global_semantic_search
+2,5,8,1,5,10,1.590692,21.853456,0.008138,0.004055,0.037559
+2,10,16,1,10,10,1.624061,65.663120,0.003623,0.012022,0.032912
+2,15,24,1,15,10,1.599254,131.376318,0.003842,0.021579,0.030037

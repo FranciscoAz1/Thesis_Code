@@ -1,0 +1,43 @@
+services:
+  weaviate_anon:
+    command:
+    - --host
+    - 0.0.0.0
+    - --port
+    - '8080'
+    - --scheme
+    - http
+    image: cr.weaviate.io/semitechnologies/weaviate:1.32.4
+    depends_on:
+      - t2v-transformers
+    ports:
+    - 8080:8080
+    - 50051:50051
+    restart: on-failure:0
+    environment:
+      OPENAI_APIKEY: $OPENAI_APIKEY
+      QUERY_DEFAULTS_LIMIT: 25
+      AUTHENTICATION_ANONYMOUS_ACCESS_ENABLED: 'true'
+      ENABLE_API_BASED_MODULES: 'true'
+      PERSISTENCE_DATA_PATH: '/var/lib/weaviate'
+      DEFAULT_VECTORIZER_MODULE: 'text2vec-transformers'
+      ENABLE_MODULES: 'generative-ollama,text2vec-transformers'
+      TRANSFORMERS_INFERENCE_API: http://t2v-transformers:8080
+      #text2vec-ollama,
+      # if ollama in linux host.docker.internal instead of localhost
+      TEXT2VEC_OLLAMA_INFERENCE_API: 'http://host.docker.internal:11434'
+      GENERATIVE_OLLAMA_API: 'http://host.docker.internal:11434'      
+      BACKUP_FILESYSTEM_PATH: '/var/lib/weaviate/backups'
+      CLUSTER_HOSTNAME: 'node1'
+  # Sentence-Transformers inference microservice used by Weaviate's text2vec-transformers module
+  t2v-transformers:
+    image: semitechnologies/transformers-inference:sentence-transformers-all-MiniLM-L6-v2
+    # For GPU support (if NVIDIA drivers + runtime installed) uncomment:
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - capabilities: [gpu]
+    environment:
+      ENABLE_CUDA: "1"  # set to "1" if GPU available & image supports it
+    restart: unless-stopped

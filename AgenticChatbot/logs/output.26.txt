@@ -1,0 +1,26 @@
+🚀 Asking: How is the war on Russia and Ukraine?
+
+🎯 Answer:
+Short answer: It remains an active, violent conflict.
+
+Grounding:
+- A matched stage in the “Russia vs Ukraine War” flow is tied to a July 12, 2024 report describing a frontline attack: “A drone strike has reportedly destroyed parts of a military base near the front. Witnesses describe significant damage and casualties.” (Title: “Drone attack hits military base”, 2024-07-12)
+
+What this indicates:
+- Continued strikes on military targets near the front and ongoing casualties, involving both Russia and Ukraine as the referenced entities.
+
+🚀 Asking: What is the latest war crime?
+🎯 Answer:
+The latest “war crime” entry in our records is:
+- Event: Destruction of a military base (category: war_crime)
+- Date: 2024-07-12
+- Triggering report: “Drone attack hits a military base”
+- Involved entities: Russia, Ukraine
+
+Quote: “A drone strike has reportedly destroyed parts of a military base near the front. Witnesses describe significant damage and casualties.”
+
+🚀 Asking: Who reported?
+Jane Doe — Journalist.
+
+Grounding:
+- Linked entities on the report “Drone attack hits military base” (2024-07-12) include “Jane Doe” with role “Journalist”.
