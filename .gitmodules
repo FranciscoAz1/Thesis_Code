@@ -1,0 +1,20 @@
+[submodule "AgenticChatbot"]
+	path = AgenticChatbot
+	url = https://github.com/FranciscoAz1/AgenticChatbot.git
+	branch = thesis_final
+[submodule "MiniRAG"]
+	path = MiniRAG
+	url = https://github.com/FranciscoAz1/MiniRAG.git
+	branch = thesis_final
+[submodule "weaviate"]
+	path = weaviate
+	url = https://github.com/FranciscoAz1/weaviate.git
+	branch = thesis_final
+[submodule "mcp-server-weaviate"]
+	path = mcp-server-weaviate
+	url = https://github.com/FranciscoAz1/mcp-server-weaviate.git
+	branch = thesis_final
+[submodule "mcp-server-weaviate-ts"]
+	path = mcp-server-weaviate-ts
+	url = https://github.com/FranciscoAz1/mcp-server-weaviate-ts.git
+	branch = thesis_final
